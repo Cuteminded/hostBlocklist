@@ -1,5 +1,5 @@
 # List of annoying domains
-
+```
 0.0.0.0 casinoscout.nl
 0.0.0.0 zaltaumi.net
 0.0.0.0 bitcoin-kopen.com
@@ -65,3 +65,4 @@
 0.0.0.0 streamfile.cfd
 0.0.0.0 offernow24.com
 0.0.0.0 adsquash.info
+```
