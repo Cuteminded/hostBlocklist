@@ -65,4 +65,6 @@
 0.0.0.0 streamfile.cfd
 0.0.0.0 offernow24.com
 0.0.0.0 adsquash.info
+0.0.0.0 bugroodrirs.net
+0.0.0.0 ad-block-offer.com
 ```
