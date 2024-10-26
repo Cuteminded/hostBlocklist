@@ -71,4 +71,8 @@
 0.0.0.0 intelligenceadx.com
 0.0.0.0 www.intelligenceadx.com
 0.0.0.0 kpgbxnpwrsnsi.com
+0.0.0.0 wejeestuze.net
+0.0.0.0 taraunissoak.net
+0.0.0.0 lift90cs.com
+0.0.0.0 mumoartoor.net
 ```
