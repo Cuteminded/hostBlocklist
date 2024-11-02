@@ -84,4 +84,5 @@
 0.0.0.0 runsamuraiapp.monster
 0.0.0.0 upbury.com
 0.0.0.0 o.upbury.com
+0.0.0.0 sos-de-muc-1.exo.io
 ```

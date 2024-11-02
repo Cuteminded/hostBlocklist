@@ -2,7 +2,6 @@
 ! Title: Lizzys Blocklist
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzy/hostBlocklist
-! Last modified: 2024-10-30T17:45:17.050Z
 !
 
 127.0.0.1 casinoscout.nl
@@ -89,3 +88,4 @@
 127.0.0.1 runsamuraiapp.monster
 127.0.0.1 upbury.com
 127.0.0.1 o.upbury.com
+127.0.0.1 sos-de-muc-1.exo.io
