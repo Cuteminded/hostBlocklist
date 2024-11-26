@@ -89,3 +89,4 @@
 127.0.0.1 upbury.com
 127.0.0.1 o.upbury.com
 127.0.0.1 sos-de-muc-1.exo.io
+127.0.0.1 psoamaupsie.net

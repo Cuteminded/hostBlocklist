@@ -85,4 +85,5 @@
 0.0.0.0 upbury.com
 0.0.0.0 o.upbury.com
 0.0.0.0 sos-de-muc-1.exo.io
+0.0.0.0 psoamaupsie.net
 ```
