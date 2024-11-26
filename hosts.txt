@@ -1,8 +1,10 @@
-# Lizzys Blocklist
-List of annoying domains<br>
-Number of Domains: 86<br>
-Last modified: 26-11-2024<br>
-```
+# Title: Lizzys Blocklist
+# Expires: 1 day
+# Description: A list of annoying spam domains
+# Homepage: https://github.com/FzzyLizzyy/hostBlocklist
+# Syntax: Hosts (including possible subdomains)
+# Number of entries: 86
+#
 0.0.0.0 href.li
 0.0.0.0 etoro.com
 0.0.0.0 etoro.com
@@ -89,4 +91,3 @@ Last modified: 26-11-2024<br>
 0.0.0.0 dakcc.check-tl-ver-198-d.buzz
 0.0.0.0 unfortunatelydroopinglying.com
 0.0.0.0 watchdevelopedintenselythe-file.top
-```
