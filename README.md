@@ -1,9 +1,10 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 87<br>
+Number of Domains: 102<br>
 Last modified: 27-11-2024<br>
 ```
 0.0.0.0 href.li
+0.0.0.0 gate.io
 0.0.0.0 etoro.com
 0.0.0.0 etoro.com
 0.0.0.0 pemsrv.com
@@ -11,6 +12,8 @@ Last modified: 27-11-2024<br>
 0.0.0.0 plus500.com
 0.0.0.0 otoadom.com
 0.0.0.0 2-wbetz.com
+0.0.0.0 www.gate.io
+0.0.0.0 tzegilo.com
 0.0.0.0 zaltaumi.net
 0.0.0.0 potsaglu.net
 0.0.0.0 vasteeds.net
@@ -24,6 +27,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 lift90cs.com
 0.0.0.0 abmgpaqf.com
 0.0.0.0 o.upbury.com
+0.0.0.0 viizetpf.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -31,6 +35,9 @@ Last modified: 27-11-2024<br>
 0.0.0.0 sharecube.pro
 0.0.0.0 adsquash.info
 0.0.0.0 hcilralhi.com
+0.0.0.0 shoptastic.io
+0.0.0.0 shoptastic.io
+0.0.0.0 axwwvfugh.com
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -40,6 +47,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 offernow24.com
 0.0.0.0 wejeestuze.net
 0.0.0.0 mumoartoor.net
+0.0.0.0 a.viizetpf.com
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -51,6 +59,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 bugroodrirs.net
 0.0.0.0 kuavzlpzhxs.com
 0.0.0.0 psoamaupsie.net
+0.0.0.0 brandsreview.co
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -58,10 +67,15 @@ Last modified: 27-11-2024<br>
 0.0.0.0 vizoalygrenn.com
 0.0.0.0 omegaadblock.net
 0.0.0.0 taraunissoak.net
+0.0.0.0 punoamokroam.net
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
 0.0.0.0 kpgbxnpwrsnsi.com
+0.0.0.0 www.shoptastic.io
+0.0.0.0 higouckoavuck.net
+0.0.0.0 www.shoptastic.io
+0.0.0.0 zoaneeptaithe.net
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -79,6 +93,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 www.bitcoin-kopen.com
 0.0.0.0 mysurferprotector.com
 0.0.0.0 runsamuraiapp.monster
+0.0.0.0 advancedadblocker.pro
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 bestsurferprotector.com

@@ -4,10 +4,11 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 87
+! Number of entries: 102
 !
 
 ||href.li^
+||gate.io^
 ||etoro.com^
 ||etoro.com^
 ||pemsrv.com^
@@ -15,6 +16,8 @@
 ||plus500.com^
 ||otoadom.com^
 ||2-wbetz.com^
+||www.gate.io^
+||tzegilo.com^
 ||zaltaumi.net^
 ||potsaglu.net^
 ||vasteeds.net^
@@ -28,6 +31,7 @@
 ||lift90cs.com^
 ||abmgpaqf.com^
 ||o.upbury.com^
+||viizetpf.com^
 ||www.etoro.com^
 ||sven-play.com^
 ||royalchin.com^
@@ -35,6 +39,9 @@
 ||sharecube.pro^
 ||adsquash.info^
 ||hcilralhi.com^
+||shoptastic.io^
+||shoptastic.io^
+||axwwvfugh.com^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -44,6 +51,7 @@
 ||offernow24.com^
 ||wejeestuze.net^
 ||mumoartoor.net^
+||a.viizetpf.com^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -55,6 +63,7 @@
 ||bugroodrirs.net^
 ||kuavzlpzhxs.com^
 ||psoamaupsie.net^
+||brandsreview.co^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -62,10 +71,15 @@
 ||vizoalygrenn.com^
 ||omegaadblock.net^
 ||taraunissoak.net^
+||punoamokroam.net^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
 ||kpgbxnpwrsnsi.com^
+||www.shoptastic.io^
+||higouckoavuck.net^
+||www.shoptastic.io^
+||zoaneeptaithe.net^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -83,6 +97,7 @@
 ||www.bitcoin-kopen.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
+||advancedadblocker.pro^
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||bestsurferprotector.com^
