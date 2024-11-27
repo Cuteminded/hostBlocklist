@@ -1,6 +1,6 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 109<br>
+Number of Domains: 110<br>
 Last modified: 27-11-2024<br>
 ```
 0.0.0.0 href.li
@@ -64,6 +64,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 kuavzlpzhxs.com
 0.0.0.0 psoamaupsie.net
 0.0.0.0 brandsreview.co
+0.0.0.0 1pixelcloud.com
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -94,13 +95,13 @@ Last modified: 27-11-2024<br>
 0.0.0.0 intelligenceadx.com
 0.0.0.0 shudoufunguptie.net
 0.0.0.0 sos-de-muc-1.exo.io
-0.0.0.0 joogruphezefaul.net
 0.0.0.0 topsolutions.rdtk.io
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 www.bitcoin-kopen.com
 0.0.0.0 mysurferprotector.com
 0.0.0.0 runsamuraiapp.monster
 0.0.0.0 advancedadblocker.pro
+0.0.0.0 joogruphezefaul.netcd
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 bestsurferprotector.com

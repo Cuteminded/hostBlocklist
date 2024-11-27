@@ -66,6 +66,7 @@
 127.0.0.1 kuavzlpzhxs.com
 127.0.0.1 psoamaupsie.net
 127.0.0.1 brandsreview.co
+127.0.0.1 1pixelcloud.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -96,13 +97,13 @@
 127.0.0.1 intelligenceadx.com
 127.0.0.1 shudoufunguptie.net
 127.0.0.1 sos-de-muc-1.exo.io
-127.0.0.1 joogruphezefaul.net
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 www.bitcoin-kopen.com
 127.0.0.1 mysurferprotector.com
 127.0.0.1 runsamuraiapp.monster
 127.0.0.1 advancedadblocker.pro
+127.0.0.1 joogruphezefaul.netcd
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 bestsurferprotector.com
