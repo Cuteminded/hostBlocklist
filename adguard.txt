@@ -8,7 +8,6 @@
 127.0.0.1 href.li
 127.0.0.1 gate.io
 127.0.0.1 etoro.com
-127.0.0.1 etoro.com
 127.0.0.1 pemsrv.com
 127.0.0.1 upbury.com
 127.0.0.1 rtmark.net
@@ -19,6 +18,7 @@
 127.0.0.1 tzegilo.com
 127.0.0.1 zaltaumi.net
 127.0.0.1 potsaglu.net
+127.0.0.1 go.etoro.com
 127.0.0.1 vasteeds.net
 127.0.0.1 s.pemsrv.com
 127.0.0.1 wumpakuw.net
@@ -26,7 +26,6 @@
 127.0.0.1 chaupsoz.net
 127.0.0.1 swag45xc.com
 127.0.0.1 jump12bx.com
-127.0.0.1 go.etoro.com
 127.0.0.1 lift90cs.com
 127.0.0.1 abmgpaqf.com
 127.0.0.1 o.upbury.com
@@ -88,6 +87,7 @@
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
 127.0.0.1 getrunkhomuto.info
+127.0.0.1 mfjitavsgytbss.com
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -96,6 +96,7 @@
 127.0.0.1 intelligenceadx.com
 127.0.0.1 shudoufunguptie.net
 127.0.0.1 sos-de-muc-1.exo.io
+127.0.0.1 joogruphezefaul.net
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 www.bitcoin-kopen.com

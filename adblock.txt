@@ -4,12 +4,11 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 108
+! Number of entries: 109
 !
 
 ||href.li^
 ||gate.io^
-||etoro.com^
 ||etoro.com^
 ||pemsrv.com^
 ||upbury.com^
@@ -21,6 +20,7 @@
 ||tzegilo.com^
 ||zaltaumi.net^
 ||potsaglu.net^
+||go.etoro.com^
 ||vasteeds.net^
 ||s.pemsrv.com^
 ||wumpakuw.net^
@@ -28,7 +28,6 @@
 ||chaupsoz.net^
 ||swag45xc.com^
 ||jump12bx.com^
-||go.etoro.com^
 ||lift90cs.com^
 ||abmgpaqf.com^
 ||o.upbury.com^
@@ -90,6 +89,7 @@
 ||eliteadblocker.net^
 ||ad-block-offer.com^
 ||getrunkhomuto.info^
+||mfjitavsgytbss.com^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
@@ -98,6 +98,7 @@
 ||intelligenceadx.com^
 ||shudoufunguptie.net^
 ||sos-de-muc-1.exo.io^
+||joogruphezefaul.net^
 ||topsolutions.rdtk.io^
 ||www.getsmartyapp.com^
 ||www.bitcoin-kopen.com^

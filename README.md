@@ -1,11 +1,10 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 108<br>
+Number of Domains: 109<br>
 Last modified: 27-11-2024<br>
 ```
 0.0.0.0 href.li
 0.0.0.0 gate.io
-0.0.0.0 etoro.com
 0.0.0.0 etoro.com
 0.0.0.0 pemsrv.com
 0.0.0.0 upbury.com
@@ -17,6 +16,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 tzegilo.com
 0.0.0.0 zaltaumi.net
 0.0.0.0 potsaglu.net
+0.0.0.0 go.etoro.com
 0.0.0.0 vasteeds.net
 0.0.0.0 s.pemsrv.com
 0.0.0.0 wumpakuw.net
@@ -24,7 +24,6 @@ Last modified: 27-11-2024<br>
 0.0.0.0 chaupsoz.net
 0.0.0.0 swag45xc.com
 0.0.0.0 jump12bx.com
-0.0.0.0 go.etoro.com
 0.0.0.0 lift90cs.com
 0.0.0.0 abmgpaqf.com
 0.0.0.0 o.upbury.com
@@ -86,6 +85,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
 0.0.0.0 getrunkhomuto.info
+0.0.0.0 mfjitavsgytbss.com
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
@@ -94,6 +94,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 intelligenceadx.com
 0.0.0.0 shudoufunguptie.net
 0.0.0.0 sos-de-muc-1.exo.io
+0.0.0.0 joogruphezefaul.net
 0.0.0.0 topsolutions.rdtk.io
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 www.bitcoin-kopen.com
