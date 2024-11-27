@@ -1,6 +1,6 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 110<br>
+Number of Domains: 119<br>
 Last modified: 27-11-2024<br>
 ```
 0.0.0.0 href.li
@@ -29,6 +29,9 @@ Last modified: 27-11-2024<br>
 0.0.0.0 o.upbury.com
 0.0.0.0 viizetpf.com
 0.0.0.0 yonmewon.com
+0.0.0.0 grunoaph.net
+0.0.0.0 1337games.io
+0.0.0.0 fleraprt.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -52,6 +55,8 @@ Last modified: 27-11-2024<br>
 0.0.0.0 mumoartoor.net
 0.0.0.0 a.viizetpf.com
 0.0.0.0 qaoqnkowmp.com
+0.0.0.0 thaugnaixi.net
+0.0.0.0 eepengoons.net
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -65,6 +70,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 psoamaupsie.net
 0.0.0.0 brandsreview.co
 0.0.0.0 1pixelcloud.com
+0.0.0.0 uthrtrrhkau.com
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -74,6 +80,8 @@ Last modified: 27-11-2024<br>
 0.0.0.0 taraunissoak.net
 0.0.0.0 punoamokroam.net
 0.0.0.0 ounsissoadry.net
+0.0.0.0 rndskittytor.com
+0.0.0.0 www.1337games.io
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
@@ -95,6 +103,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 intelligenceadx.com
 0.0.0.0 shudoufunguptie.net
 0.0.0.0 sos-de-muc-1.exo.io
+0.0.0.0 shaiwourtijogno.net
 0.0.0.0 topsolutions.rdtk.io
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 www.bitcoin-kopen.com

@@ -31,6 +31,9 @@
 127.0.0.1 o.upbury.com
 127.0.0.1 viizetpf.com
 127.0.0.1 yonmewon.com
+127.0.0.1 grunoaph.net
+127.0.0.1 1337games.io
+127.0.0.1 fleraprt.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -54,6 +57,8 @@
 127.0.0.1 mumoartoor.net
 127.0.0.1 a.viizetpf.com
 127.0.0.1 qaoqnkowmp.com
+127.0.0.1 thaugnaixi.net
+127.0.0.1 eepengoons.net
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -67,6 +72,7 @@
 127.0.0.1 psoamaupsie.net
 127.0.0.1 brandsreview.co
 127.0.0.1 1pixelcloud.com
+127.0.0.1 uthrtrrhkau.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -76,6 +82,8 @@
 127.0.0.1 taraunissoak.net
 127.0.0.1 punoamokroam.net
 127.0.0.1 ounsissoadry.net
+127.0.0.1 rndskittytor.com
+127.0.0.1 www.1337games.io
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -97,6 +105,7 @@
 127.0.0.1 intelligenceadx.com
 127.0.0.1 shudoufunguptie.net
 127.0.0.1 sos-de-muc-1.exo.io
+127.0.0.1 shaiwourtijogno.net
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 www.bitcoin-kopen.com
