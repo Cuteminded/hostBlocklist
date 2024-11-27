@@ -11,6 +11,7 @@
 127.0.0.1 etoro.com
 127.0.0.1 pemsrv.com
 127.0.0.1 upbury.com
+127.0.0.1 rtmark.net
 127.0.0.1 plus500.com
 127.0.0.1 otoadom.com
 127.0.0.1 2-wbetz.com
@@ -30,6 +31,7 @@
 127.0.0.1 abmgpaqf.com
 127.0.0.1 o.upbury.com
 127.0.0.1 viizetpf.com
+127.0.0.1 yonmewon.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -40,6 +42,8 @@
 127.0.0.1 shoptastic.io
 127.0.0.1 shoptastic.io
 127.0.0.1 axwwvfugh.com
+127.0.0.1 sr7pv7n5x.com
+127.0.0.1 my.rtmark.net
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -50,6 +54,7 @@
 127.0.0.1 wejeestuze.net
 127.0.0.1 mumoartoor.net
 127.0.0.1 a.viizetpf.com
+127.0.0.1 qaoqnkowmp.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -70,6 +75,7 @@
 127.0.0.1 omegaadblock.net
 127.0.0.1 taraunissoak.net
 127.0.0.1 punoamokroam.net
+127.0.0.1 ounsissoadry.net
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd

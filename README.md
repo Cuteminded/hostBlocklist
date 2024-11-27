@@ -1,6 +1,6 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 102<br>
+Number of Domains: 108<br>
 Last modified: 27-11-2024<br>
 ```
 0.0.0.0 href.li
@@ -9,6 +9,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 etoro.com
 0.0.0.0 pemsrv.com
 0.0.0.0 upbury.com
+0.0.0.0 rtmark.net
 0.0.0.0 plus500.com
 0.0.0.0 otoadom.com
 0.0.0.0 2-wbetz.com
@@ -28,6 +29,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 abmgpaqf.com
 0.0.0.0 o.upbury.com
 0.0.0.0 viizetpf.com
+0.0.0.0 yonmewon.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -38,6 +40,8 @@ Last modified: 27-11-2024<br>
 0.0.0.0 shoptastic.io
 0.0.0.0 shoptastic.io
 0.0.0.0 axwwvfugh.com
+0.0.0.0 sr7pv7n5x.com
+0.0.0.0 my.rtmark.net
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -48,6 +52,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 wejeestuze.net
 0.0.0.0 mumoartoor.net
 0.0.0.0 a.viizetpf.com
+0.0.0.0 qaoqnkowmp.com
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -68,6 +73,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 omegaadblock.net
 0.0.0.0 taraunissoak.net
 0.0.0.0 punoamokroam.net
+0.0.0.0 ounsissoadry.net
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
