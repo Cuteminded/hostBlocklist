@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 86
+! Number of entries: 87
 !
 
 ||href.li^
@@ -44,6 +44,7 @@
 ||offernow24.com^
 ||wejeestuze.net^
 ||mumoartoor.net^
+||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
 ||freefromads.net^

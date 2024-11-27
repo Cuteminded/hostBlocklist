@@ -1,7 +1,7 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 86<br>
-Last modified: 26-11-2024<br>
+Number of Domains: 87<br>
+Last modified: 27-11-2024<br>
 ```
 0.0.0.0 href.li
 0.0.0.0 etoro.com
@@ -40,6 +40,7 @@ Last modified: 26-11-2024<br>
 0.0.0.0 offernow24.com
 0.0.0.0 wejeestuze.net
 0.0.0.0 mumoartoor.net
+0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
 0.0.0.0 freefromads.net

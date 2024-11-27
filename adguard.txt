@@ -42,6 +42,7 @@
 127.0.0.1 offernow24.com
 127.0.0.1 wejeestuze.net
 127.0.0.1 mumoartoor.net
+127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
 127.0.0.1 freefromads.net

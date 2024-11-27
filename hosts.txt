@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 86
+# Number of entries: 87
 #
 0.0.0.0 href.li
 0.0.0.0 etoro.com
@@ -42,6 +42,7 @@
 0.0.0.0 offernow24.com
 0.0.0.0 wejeestuze.net
 0.0.0.0 mumoartoor.net
+0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
 0.0.0.0 freefromads.net
