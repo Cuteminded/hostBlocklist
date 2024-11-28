@@ -34,6 +34,7 @@
 127.0.0.1 grunoaph.net
 127.0.0.1 1337games.io
 127.0.0.1 fleraprt.com
+127.0.0.1 gvarabge.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -92,6 +93,7 @@
 127.0.0.1 higouckoavuck.net
 127.0.0.1 www.shoptastic.io
 127.0.0.1 zoaneeptaithe.net
+127.0.0.1 grashaksoudry.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -109,6 +111,7 @@
 127.0.0.1 sos-de-muc-1.exo.io
 127.0.0.1 shaiwourtijogno.net
 127.0.0.1 ptoaheelaishard.net
+127.0.0.1 geejushoaboustu.net
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 www.bitcoin-kopen.com

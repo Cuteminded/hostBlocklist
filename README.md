@@ -1,6 +1,6 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 122<br>
+Number of Domains: 125<br>
 Last modified: 28-11-2024<br>
 ```
 0.0.0.0 href.li
@@ -32,6 +32,7 @@ Last modified: 28-11-2024<br>
 0.0.0.0 grunoaph.net
 0.0.0.0 1337games.io
 0.0.0.0 fleraprt.com
+0.0.0.0 gvarabge.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -90,6 +91,7 @@ Last modified: 28-11-2024<br>
 0.0.0.0 higouckoavuck.net
 0.0.0.0 www.shoptastic.io
 0.0.0.0 zoaneeptaithe.net
+0.0.0.0 grashaksoudry.net
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -107,6 +109,7 @@ Last modified: 28-11-2024<br>
 0.0.0.0 sos-de-muc-1.exo.io
 0.0.0.0 shaiwourtijogno.net
 0.0.0.0 ptoaheelaishard.net
+0.0.0.0 geejushoaboustu.net
 0.0.0.0 topsolutions.rdtk.io
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 www.bitcoin-kopen.com

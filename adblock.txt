@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 122
+! Number of entries: 125
 !
 
 ||href.li^
@@ -36,6 +36,7 @@
 ||grunoaph.net^
 ||1337games.io^
 ||fleraprt.com^
+||gvarabge.com^
 ||www.etoro.com^
 ||sven-play.com^
 ||royalchin.com^
@@ -94,6 +95,7 @@
 ||higouckoavuck.net^
 ||www.shoptastic.io^
 ||zoaneeptaithe.net^
+||grashaksoudry.net^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -111,6 +113,7 @@
 ||sos-de-muc-1.exo.io^
 ||shaiwourtijogno.net^
 ||ptoaheelaishard.net^
+||geejushoaboustu.net^
 ||topsolutions.rdtk.io^
 ||www.getsmartyapp.com^
 ||www.bitcoin-kopen.com^
