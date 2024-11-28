@@ -1,7 +1,7 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 119<br>
-Last modified: 27-11-2024<br>
+Number of Domains: 122<br>
+Last modified: 28-11-2024<br>
 ```
 0.0.0.0 href.li
 0.0.0.0 gate.io
@@ -95,6 +95,8 @@ Last modified: 27-11-2024<br>
 0.0.0.0 ad-block-offer.com
 0.0.0.0 getrunkhomuto.info
 0.0.0.0 mfjitavsgytbss.com
+0.0.0.0 fwlkouyodgbred.com
+0.0.0.0 aloatchuraimti.net
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
@@ -104,6 +106,7 @@ Last modified: 27-11-2024<br>
 0.0.0.0 shudoufunguptie.net
 0.0.0.0 sos-de-muc-1.exo.io
 0.0.0.0 shaiwourtijogno.net
+0.0.0.0 ptoaheelaishard.net
 0.0.0.0 topsolutions.rdtk.io
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 www.bitcoin-kopen.com

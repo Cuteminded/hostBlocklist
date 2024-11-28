@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 119
+! Number of entries: 122
 !
 
 ||href.li^
@@ -99,6 +99,8 @@
 ||ad-block-offer.com^
 ||getrunkhomuto.info^
 ||mfjitavsgytbss.com^
+||fwlkouyodgbred.com^
+||aloatchuraimti.net^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
@@ -108,6 +110,7 @@
 ||shudoufunguptie.net^
 ||sos-de-muc-1.exo.io^
 ||shaiwourtijogno.net^
+||ptoaheelaishard.net^
 ||topsolutions.rdtk.io^
 ||www.getsmartyapp.com^
 ||www.bitcoin-kopen.com^

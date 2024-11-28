@@ -97,6 +97,8 @@
 127.0.0.1 ad-block-offer.com
 127.0.0.1 getrunkhomuto.info
 127.0.0.1 mfjitavsgytbss.com
+127.0.0.1 fwlkouyodgbred.com
+127.0.0.1 aloatchuraimti.net
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -106,6 +108,7 @@
 127.0.0.1 shudoufunguptie.net
 127.0.0.1 sos-de-muc-1.exo.io
 127.0.0.1 shaiwourtijogno.net
+127.0.0.1 ptoaheelaishard.net
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 www.bitcoin-kopen.com
