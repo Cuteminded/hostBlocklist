@@ -1,19 +1,22 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 126<br>
+Number of Domains: 140<br>
 Last modified: 30-11-2024<br>
 ```
 0.0.0.0 href.li
 0.0.0.0 gate.io
 0.0.0.0 etoro.com
+0.0.0.0 puarg.org
 0.0.0.0 pemsrv.com
 0.0.0.0 upbury.com
 0.0.0.0 rtmark.net
+0.0.0.0 mctanj.com
 0.0.0.0 plus500.com
 0.0.0.0 otoadom.com
 0.0.0.0 2-wbetz.com
 0.0.0.0 www.gate.io
 0.0.0.0 tzegilo.com
+0.0.0.0 pizzabar.ru
 0.0.0.0 zaltaumi.net
 0.0.0.0 potsaglu.net
 0.0.0.0 go.etoro.com
@@ -33,6 +36,7 @@ Last modified: 30-11-2024<br>
 0.0.0.0 1337games.io
 0.0.0.0 fleraprt.com
 0.0.0.0 gvarabge.com
+0.0.0.0 zoom56vp.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -45,6 +49,7 @@ Last modified: 30-11-2024<br>
 0.0.0.0 axwwvfugh.com
 0.0.0.0 sr7pv7n5x.com
 0.0.0.0 my.rtmark.net
+0.0.0.0 keyuyloap.com
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -58,6 +63,9 @@ Last modified: 30-11-2024<br>
 0.0.0.0 qaoqnkowmp.com
 0.0.0.0 thaugnaixi.net
 0.0.0.0 eepengoons.net
+0.0.0.0 www.mctanj.com
+0.0.0.0 luckaltute.net
+0.0.0.0 nexusbloom.xyz
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -72,6 +80,9 @@ Last modified: 30-11-2024<br>
 0.0.0.0 brandsreview.co
 0.0.0.0 1pixelcloud.com
 0.0.0.0 uthrtrrhkau.com
+0.0.0.0 ripheeksirg.net
+0.0.0.0 feevolaphie.net
+0.0.0.0 ripheeksirg.net
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -84,6 +95,7 @@ Last modified: 30-11-2024<br>
 0.0.0.0 rndskittytor.com
 0.0.0.0 www.1337games.io
 0.0.0.0 soadicithaiy.net
+0.0.0.0 wkpgetvhidtj.com
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
@@ -93,6 +105,8 @@ Last modified: 30-11-2024<br>
 0.0.0.0 www.shoptastic.io
 0.0.0.0 zoaneeptaithe.net
 0.0.0.0 grashaksoudry.net
+0.0.0.0 vtipsgwmhwflc.com
+0.0.0.0 greckoaghoate.net
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com

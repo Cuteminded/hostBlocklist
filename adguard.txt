@@ -8,14 +8,17 @@
 127.0.0.1 href.li
 127.0.0.1 gate.io
 127.0.0.1 etoro.com
+127.0.0.1 puarg.org
 127.0.0.1 pemsrv.com
 127.0.0.1 upbury.com
 127.0.0.1 rtmark.net
+127.0.0.1 mctanj.com
 127.0.0.1 plus500.com
 127.0.0.1 otoadom.com
 127.0.0.1 2-wbetz.com
 127.0.0.1 www.gate.io
 127.0.0.1 tzegilo.com
+127.0.0.1 pizzabar.ru
 127.0.0.1 zaltaumi.net
 127.0.0.1 potsaglu.net
 127.0.0.1 go.etoro.com
@@ -35,6 +38,7 @@
 127.0.0.1 1337games.io
 127.0.0.1 fleraprt.com
 127.0.0.1 gvarabge.com
+127.0.0.1 zoom56vp.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -47,6 +51,7 @@
 127.0.0.1 axwwvfugh.com
 127.0.0.1 sr7pv7n5x.com
 127.0.0.1 my.rtmark.net
+127.0.0.1 keyuyloap.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -60,6 +65,9 @@
 127.0.0.1 qaoqnkowmp.com
 127.0.0.1 thaugnaixi.net
 127.0.0.1 eepengoons.net
+127.0.0.1 www.mctanj.com
+127.0.0.1 luckaltute.net
+127.0.0.1 nexusbloom.xyz
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -74,6 +82,9 @@
 127.0.0.1 brandsreview.co
 127.0.0.1 1pixelcloud.com
 127.0.0.1 uthrtrrhkau.com
+127.0.0.1 ripheeksirg.net
+127.0.0.1 feevolaphie.net
+127.0.0.1 ripheeksirg.net
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -86,6 +97,7 @@
 127.0.0.1 rndskittytor.com
 127.0.0.1 www.1337games.io
 127.0.0.1 soadicithaiy.net
+127.0.0.1 wkpgetvhidtj.com
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -95,6 +107,8 @@
 127.0.0.1 www.shoptastic.io
 127.0.0.1 zoaneeptaithe.net
 127.0.0.1 grashaksoudry.net
+127.0.0.1 vtipsgwmhwflc.com
+127.0.0.1 greckoaghoate.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com

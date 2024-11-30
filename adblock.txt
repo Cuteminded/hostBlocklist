@@ -4,20 +4,23 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 126
+! Number of entries: 140
 !
 
 ||href.li^
 ||gate.io^
 ||etoro.com^
+||puarg.org^
 ||pemsrv.com^
 ||upbury.com^
 ||rtmark.net^
+||mctanj.com^
 ||plus500.com^
 ||otoadom.com^
 ||2-wbetz.com^
 ||www.gate.io^
 ||tzegilo.com^
+||pizzabar.ru^
 ||zaltaumi.net^
 ||potsaglu.net^
 ||go.etoro.com^
@@ -37,6 +40,7 @@
 ||1337games.io^
 ||fleraprt.com^
 ||gvarabge.com^
+||zoom56vp.com^
 ||www.etoro.com^
 ||sven-play.com^
 ||royalchin.com^
@@ -49,6 +53,7 @@
 ||axwwvfugh.com^
 ||sr7pv7n5x.com^
 ||my.rtmark.net^
+||keyuyloap.com^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -62,6 +67,9 @@
 ||qaoqnkowmp.com^
 ||thaugnaixi.net^
 ||eepengoons.net^
+||www.mctanj.com^
+||luckaltute.net^
+||nexusbloom.xyz^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -76,6 +84,9 @@
 ||brandsreview.co^
 ||1pixelcloud.com^
 ||uthrtrrhkau.com^
+||ripheeksirg.net^
+||feevolaphie.net^
+||ripheeksirg.net^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -88,6 +99,7 @@
 ||rndskittytor.com^
 ||www.1337games.io^
 ||soadicithaiy.net^
+||wkpgetvhidtj.com^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
@@ -97,6 +109,8 @@
 ||www.shoptastic.io^
 ||zoaneeptaithe.net^
 ||grashaksoudry.net^
+||vtipsgwmhwflc.com^
+||greckoaghoate.net^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
