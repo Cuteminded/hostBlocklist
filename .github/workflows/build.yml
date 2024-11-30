@@ -1,0 +1,33 @@
+name: Build filter list
+permissions:
+  contents: write
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5 
+
+      - name: Run build script
+        run: python src/build.py
+
+      - name: Deploying filter list
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Deploying filter list ${{ steps.date.outputs.date }}
+          commit_author: LizzyServer <server@deadlykitten.nl>
+          commit_user_name: LizzyServer
+          commit_user_email: server@deadlykitten.nl
+          branch: master
