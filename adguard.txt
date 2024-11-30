@@ -85,6 +85,7 @@
 127.0.0.1 ounsissoadry.net
 127.0.0.1 rndskittytor.com
 127.0.0.1 www.1337games.io
+127.0.0.1 soadicithaiy.net
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd

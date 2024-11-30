@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 125
+! Number of entries: 126
 !
 
 ||href.li^
@@ -87,6 +87,7 @@
 ||ounsissoadry.net^
 ||rndskittytor.com^
 ||www.1337games.io^
+||soadicithaiy.net^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^

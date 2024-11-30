@@ -1,7 +1,7 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 125<br>
-Last modified: 28-11-2024<br>
+Number of Domains: 126<br>
+Last modified: 30-11-2024<br>
 ```
 0.0.0.0 href.li
 0.0.0.0 gate.io
@@ -83,6 +83,7 @@ Last modified: 28-11-2024<br>
 0.0.0.0 ounsissoadry.net
 0.0.0.0 rndskittytor.com
 0.0.0.0 www.1337games.io
+0.0.0.0 soadicithaiy.net
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
