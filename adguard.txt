@@ -112,6 +112,7 @@
 127.0.0.1 criyauvkaamgj.com
 127.0.0.1 bestegoksites.bet
 127.0.0.1 cdn.carbonads.com
+127.0.0.1 hwpqcfhoccqxp.com
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
