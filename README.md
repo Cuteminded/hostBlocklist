@@ -1,7 +1,7 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 140<br>
-Last modified: 30-11-2024<br>
+Number of Domains: 142<br>
+Last modified: 02-12-2024<br>
 ```
 0.0.0.0 href.li
 0.0.0.0 gate.io
@@ -66,6 +66,7 @@ Last modified: 30-11-2024<br>
 0.0.0.0 www.mctanj.com
 0.0.0.0 luckaltute.net
 0.0.0.0 nexusbloom.xyz
+0.0.0.0 bouleethie.net
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -83,6 +84,7 @@ Last modified: 30-11-2024<br>
 0.0.0.0 ripheeksirg.net
 0.0.0.0 feevolaphie.net
 0.0.0.0 ripheeksirg.net
+0.0.0.0 fehwcokgnar.com
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host

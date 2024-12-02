@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 140
+! Number of entries: 142
 !
 
 ||href.li^
@@ -70,6 +70,7 @@
 ||www.mctanj.com^
 ||luckaltute.net^
 ||nexusbloom.xyz^
+||bouleethie.net^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -87,6 +88,7 @@
 ||ripheeksirg.net^
 ||feevolaphie.net^
 ||ripheeksirg.net^
+||fehwcokgnar.com^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^

@@ -68,6 +68,7 @@
 127.0.0.1 www.mctanj.com
 127.0.0.1 luckaltute.net
 127.0.0.1 nexusbloom.xyz
+127.0.0.1 bouleethie.net
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -85,6 +86,7 @@
 127.0.0.1 ripheeksirg.net
 127.0.0.1 feevolaphie.net
 127.0.0.1 ripheeksirg.net
+127.0.0.1 fehwcokgnar.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
