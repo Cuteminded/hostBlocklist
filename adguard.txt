@@ -47,11 +47,11 @@
 127.0.0.1 adsquash.info
 127.0.0.1 hcilralhi.com
 127.0.0.1 shoptastic.io
-127.0.0.1 shoptastic.io
 127.0.0.1 axwwvfugh.com
 127.0.0.1 sr7pv7n5x.com
 127.0.0.1 my.rtmark.net
 127.0.0.1 keyuyloap.com
+127.0.0.1 carbonads.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -69,6 +69,8 @@
 127.0.0.1 luckaltute.net
 127.0.0.1 nexusbloom.xyz
 127.0.0.1 bouleethie.net
+127.0.0.1 bouleethie.net
+127.0.0.1 cryptonews.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -106,11 +108,13 @@
 127.0.0.1 kpgbxnpwrsnsi.com
 127.0.0.1 www.shoptastic.io
 127.0.0.1 higouckoavuck.net
-127.0.0.1 www.shoptastic.io
 127.0.0.1 zoaneeptaithe.net
 127.0.0.1 grashaksoudry.net
 127.0.0.1 vtipsgwmhwflc.com
 127.0.0.1 greckoaghoate.net
+127.0.0.1 criyauvkaamgj.com
+127.0.0.1 bestegoksites.bet
+127.0.0.1 cdn.carbonads.com
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -118,6 +122,8 @@
 127.0.0.1 mfjitavsgytbss.com
 127.0.0.1 fwlkouyodgbred.com
 127.0.0.1 aloatchuraimti.net
+127.0.0.1 ueykjfltxqsb.space
+127.0.0.1 bitcoinmagazine.nl
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net

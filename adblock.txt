@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 142
+! Number of entries: 148
 !
 
 ||href.li^
@@ -49,11 +49,11 @@
 ||adsquash.info^
 ||hcilralhi.com^
 ||shoptastic.io^
-||shoptastic.io^
 ||axwwvfugh.com^
 ||sr7pv7n5x.com^
 ||my.rtmark.net^
 ||keyuyloap.com^
+||carbonads.com^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -71,6 +71,8 @@
 ||luckaltute.net^
 ||nexusbloom.xyz^
 ||bouleethie.net^
+||bouleethie.net^
+||cryptonews.com^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -108,11 +110,13 @@
 ||kpgbxnpwrsnsi.com^
 ||www.shoptastic.io^
 ||higouckoavuck.net^
-||www.shoptastic.io^
 ||zoaneeptaithe.net^
 ||grashaksoudry.net^
 ||vtipsgwmhwflc.com^
 ||greckoaghoate.net^
+||criyauvkaamgj.com^
+||bestegoksites.bet^
+||cdn.carbonads.com^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -120,6 +124,8 @@
 ||mfjitavsgytbss.com^
 ||fwlkouyodgbred.com^
 ||aloatchuraimti.net^
+||ueykjfltxqsb.space^
+||bitcoinmagazine.nl^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^

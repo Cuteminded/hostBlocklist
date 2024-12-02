@@ -1,6 +1,6 @@
 # Lizzys Blocklist
 List of annoying domains<br>
-Number of Domains: 142<br>
+Number of Domains: 148<br>
 Last modified: 02-12-2024<br>
 ```
 0.0.0.0 href.li
@@ -45,11 +45,11 @@ Last modified: 02-12-2024<br>
 0.0.0.0 adsquash.info
 0.0.0.0 hcilralhi.com
 0.0.0.0 shoptastic.io
-0.0.0.0 shoptastic.io
 0.0.0.0 axwwvfugh.com
 0.0.0.0 sr7pv7n5x.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 keyuyloap.com
+0.0.0.0 carbonads.com
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -67,6 +67,8 @@ Last modified: 02-12-2024<br>
 0.0.0.0 luckaltute.net
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 bouleethie.net
+0.0.0.0 bouleethie.net
+0.0.0.0 cryptonews.com
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -104,11 +106,13 @@ Last modified: 02-12-2024<br>
 0.0.0.0 kpgbxnpwrsnsi.com
 0.0.0.0 www.shoptastic.io
 0.0.0.0 higouckoavuck.net
-0.0.0.0 www.shoptastic.io
 0.0.0.0 zoaneeptaithe.net
 0.0.0.0 grashaksoudry.net
 0.0.0.0 vtipsgwmhwflc.com
 0.0.0.0 greckoaghoate.net
+0.0.0.0 criyauvkaamgj.com
+0.0.0.0 bestegoksites.bet
+0.0.0.0 cdn.carbonads.com
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -116,6 +120,8 @@ Last modified: 02-12-2024<br>
 0.0.0.0 mfjitavsgytbss.com
 0.0.0.0 fwlkouyodgbred.com
 0.0.0.0 aloatchuraimti.net
+0.0.0.0 ueykjfltxqsb.space
+0.0.0.0 bitcoinmagazine.nl
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
