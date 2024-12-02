@@ -1,5 +1,9 @@
 import time
 
+title = "Lizzys Blocklist"
+description = "A list of annoying spam domains"
+homepage = "https://github.com/FzzyLizzyy/hostBlocklist"
+
 domains = []
 
 def readDomains():
@@ -16,22 +20,22 @@ def writeDomains():
 
 def readme():
     lines = []
-    lines.append("# Lizzys Blocklist")
-    lines.append("List of annoying domains<br>")
-    lines.append("Number of Domains: {}<br>".format(len(domains)))
-    lines.append("Last modified: {}<br>".format(time.strftime("%d-%m-%Y")))
+    lines.append("# {0}".format(title))
+    lines.append("{0}<br>".format(description))
+    lines.append("Number of Domains: {0}<br>".format(len(domains)))
+    lines.append("Last modified: {0}<br>".format(time.strftime("%d-%m-%Y")))
     with open("../README.md", "w") as file:
         for line in lines:
             file.write(f"{line}\n")
 
 def hosts():
     lines = []
-    lines.append("# Title: Lizzys Blocklist")
+    lines.append("# Title: {0}".format(title))
     lines.append("# Expires: 1 day")
-    lines.append("# Description: A list of annoying spam domains")
-    lines.append("# Homepage: https://github.com/FzzyLizzyy/hostBlocklist")
+    lines.append("# Description: {0}".format(description))
+    lines.append("# Homepage: {0}".format(homepage))
     lines.append("# Syntax: Hosts (including possible subdomains)")
-    lines.append("# Number of entries: {}".format(len(domains)))
+    lines.append("# Number of entries: {0}".format(len(domains)))
     lines.append("#")
     for domain in domains:
         lines.append("0.0.0.0 {0}".format(domain))
@@ -42,10 +46,10 @@ def hosts():
 def adguard():
     lines = []
     lines.append("!")
-    lines.append("! Title: Lizzys Blocklist")
+    lines.append("! Title: {0}".format(title))
     lines.append("! Expires: 1 day")
-    lines.append("! Description: A list of annoying spam domains")
-    lines.append("! Homepage: https://github.com/FzzyLizzyy/hostBlocklist")
+    lines.append("! Description: {0}".format(description))
+    lines.append("! Homepage: {0}".format(homepage))
     lines.append("!")
     lines.append("")
     for domain in domains:
@@ -57,12 +61,12 @@ def adguard():
 def adblock():
     lines = []
     lines.append("[Adblock Plus]")
-    lines.append("! Title: Lizzys Blocklist")
+    lines.append("! Title: {0}".format(title))
     lines.append("! Expires: 1 day")
-    lines.append("! Description: A list of annoying spam domains")
-    lines.append("! Homepage: https://github.com/FzzyLizzyy/hostBlocklist")
+    lines.append("! Description: {0}".format(description))
+    lines.append("! Homepage: {0}".format(homepage))
     lines.append("! Syntax: AdBlock")
-    lines.append("! Number of entries: {}".format(len(domains)))
+    lines.append("! Number of entries: {0}".format(len(domains)))
     lines.append("!")
     lines.append("")
     for domain in domains:
