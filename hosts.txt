@@ -3,9 +3,8 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 148
+# Number of entries: 145
 #
-0.0.0.0 href.li
 0.0.0.0 gate.io
 0.0.0.0 etoro.com
 0.0.0.0 puarg.org
@@ -69,7 +68,6 @@
 0.0.0.0 luckaltute.net
 0.0.0.0 nexusbloom.xyz
 0.0.0.0 bouleethie.net
-0.0.0.0 bouleethie.net
 0.0.0.0 cryptonews.com
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
@@ -87,7 +85,6 @@
 0.0.0.0 uthrtrrhkau.com
 0.0.0.0 ripheeksirg.net
 0.0.0.0 feevolaphie.net
-0.0.0.0 ripheeksirg.net
 0.0.0.0 fehwcokgnar.com
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
