@@ -4,8 +4,14 @@ domains = []
 
 def readDomains():
     with open('domains.txt', 'r') as domainsFile:
-        for domain in domainsFile:
+        uniqueDomains = list(dict.fromkeys(domainsFile))
+        for domain in uniqueDomains:
             domains.append(domain.strip())
+
+def writeDomains():
+    with open('domains.txt', 'w') as file:
+        for line in domains:
+            file.write(f"{line}\n")
     domains.sort(key=len)
 
 def readme():
@@ -14,10 +20,6 @@ def readme():
     lines.append("List of annoying domains<br>")
     lines.append("Number of Domains: {}<br>".format(len(domains)))
     lines.append("Last modified: {}<br>".format(time.strftime("%d-%m-%Y")))
-    lines.append("```")
-    for domain in domains:
-        lines.append("0.0.0.0 {0}".format(domain))
-    lines.append("```")
     with open("../README.md", "w") as file:
         for line in lines:
             file.write(f"{line}\n")
@@ -71,9 +73,9 @@ def adblock():
 
 def main():
     readDomains()
+    writeDomains()
     hosts()
     readme()
     adguard()
     adblock()
-
 main()
