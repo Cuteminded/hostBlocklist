@@ -69,6 +69,7 @@
 127.0.0.1 nexusbloom.xyz
 127.0.0.1 bouleethie.net
 127.0.0.1 cryptonews.com
+127.0.0.1 hsohrqorrw.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -133,6 +134,7 @@
 127.0.0.1 shaiwourtijogno.net
 127.0.0.1 ptoaheelaishard.net
 127.0.0.1 geejushoaboustu.net
+127.0.0.1 tigroulseedsipt.net
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 www.bitcoin-kopen.com
@@ -142,6 +144,7 @@
 127.0.0.1 joogruphezefaul.netcd
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
+127.0.0.1 camp.purchase-shop.com
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com
