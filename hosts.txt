@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 150
+# Number of entries: 158
 #
 0.0.0.0 gate.io
 0.0.0.0 etoro.com
@@ -38,6 +38,7 @@
 0.0.0.0 fleraprt.com
 0.0.0.0 gvarabge.com
 0.0.0.0 zoom56vp.com
+0.0.0.0 amdkmamc.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -51,6 +52,7 @@
 0.0.0.0 my.rtmark.net
 0.0.0.0 keyuyloap.com
 0.0.0.0 carbonads.com
+0.0.0.0 fktnupipm.com
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -87,6 +89,7 @@
 0.0.0.0 ripheeksirg.net
 0.0.0.0 feevolaphie.net
 0.0.0.0 fehwcokgnar.com
+0.0.0.0 kqodiohzucg.com
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -114,6 +117,7 @@
 0.0.0.0 bestegoksites.bet
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 hwpqcfhoccqxp.com
+0.0.0.0 cplhpdxbdeyvy.com
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -124,6 +128,9 @@
 0.0.0.0 ueykjfltxqsb.space
 0.0.0.0 bitcoinmagazine.nl
 0.0.0.0 ppfodpcsdndhgn.com
+0.0.0.0 coopsoaglipoul.net
+0.0.0.0 sholraidsoalro.net
+0.0.0.0 wouhikeelichoo.net
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
@@ -143,6 +150,7 @@
 0.0.0.0 runsamuraiapp.monster
 0.0.0.0 advancedadblocker.pro
 0.0.0.0 joogruphezefaul.netcd
+0.0.0.0 www.cplhpdxbdeyvy.com
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com

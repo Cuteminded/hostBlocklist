@@ -38,6 +38,7 @@
 127.0.0.1 fleraprt.com
 127.0.0.1 gvarabge.com
 127.0.0.1 zoom56vp.com
+127.0.0.1 amdkmamc.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -51,6 +52,7 @@
 127.0.0.1 my.rtmark.net
 127.0.0.1 keyuyloap.com
 127.0.0.1 carbonads.com
+127.0.0.1 fktnupipm.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -87,6 +89,7 @@
 127.0.0.1 ripheeksirg.net
 127.0.0.1 feevolaphie.net
 127.0.0.1 fehwcokgnar.com
+127.0.0.1 kqodiohzucg.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -114,6 +117,7 @@
 127.0.0.1 bestegoksites.bet
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 hwpqcfhoccqxp.com
+127.0.0.1 cplhpdxbdeyvy.com
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -124,6 +128,9 @@
 127.0.0.1 ueykjfltxqsb.space
 127.0.0.1 bitcoinmagazine.nl
 127.0.0.1 ppfodpcsdndhgn.com
+127.0.0.1 coopsoaglipoul.net
+127.0.0.1 sholraidsoalro.net
+127.0.0.1 wouhikeelichoo.net
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -143,6 +150,7 @@
 127.0.0.1 runsamuraiapp.monster
 127.0.0.1 advancedadblocker.pro
 127.0.0.1 joogruphezefaul.netcd
+127.0.0.1 www.cplhpdxbdeyvy.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com

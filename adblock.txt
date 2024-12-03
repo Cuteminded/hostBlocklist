@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 150
+! Number of entries: 158
 !
 
 ||gate.io^
@@ -40,6 +40,7 @@
 ||fleraprt.com^
 ||gvarabge.com^
 ||zoom56vp.com^
+||amdkmamc.com^
 ||www.etoro.com^
 ||sven-play.com^
 ||royalchin.com^
@@ -53,6 +54,7 @@
 ||my.rtmark.net^
 ||keyuyloap.com^
 ||carbonads.com^
+||fktnupipm.com^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -89,6 +91,7 @@
 ||ripheeksirg.net^
 ||feevolaphie.net^
 ||fehwcokgnar.com^
+||kqodiohzucg.com^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -116,6 +119,7 @@
 ||bestegoksites.bet^
 ||cdn.carbonads.com^
 ||hwpqcfhoccqxp.com^
+||cplhpdxbdeyvy.com^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -126,6 +130,9 @@
 ||ueykjfltxqsb.space^
 ||bitcoinmagazine.nl^
 ||ppfodpcsdndhgn.com^
+||coopsoaglipoul.net^
+||sholraidsoalro.net^
+||wouhikeelichoo.net^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
@@ -145,6 +152,7 @@
 ||runsamuraiapp.monster^
 ||advancedadblocker.pro^
 ||joogruphezefaul.netcd^
+||www.cplhpdxbdeyvy.com^
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||camp.purchase-shop.com^
