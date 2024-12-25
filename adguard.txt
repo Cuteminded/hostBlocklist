@@ -53,6 +53,7 @@
 127.0.0.1 keyuyloap.com
 127.0.0.1 carbonads.com
 127.0.0.1 fktnupipm.com
+127.0.0.1 wuaebbdpx.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -90,6 +91,7 @@
 127.0.0.1 feevolaphie.net
 127.0.0.1 fehwcokgnar.com
 127.0.0.1 kqodiohzucg.com
+127.0.0.1 tagruglegni.net
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -159,6 +161,7 @@
 127.0.0.1 interruptchalkedlie.com
 127.0.0.1 www.intelligenceadx.com
 127.0.0.1 fruitlesshooraytheirs.com
+127.0.0.1 bestecasinozondercruks.com
 127.0.0.1 pubads.g.doubleclick.uk.net
 127.0.0.1 dakcc.check-tl-ver-198-d.buzz
 127.0.0.1 unfortunatelydroopinglying.com
