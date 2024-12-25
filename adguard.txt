@@ -12,6 +12,7 @@
 127.0.0.1 upbury.com
 127.0.0.1 rtmark.net
 127.0.0.1 mctanj.com
+127.0.0.1 3commas.io
 127.0.0.1 plus500.com
 127.0.0.1 otoadom.com
 127.0.0.1 2-wbetz.com
@@ -73,6 +74,7 @@
 127.0.0.1 bouleethie.net
 127.0.0.1 cryptonews.com
 127.0.0.1 hsohrqorrw.com
+127.0.0.1 app.3commas.io
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -105,6 +107,7 @@
 127.0.0.1 www.1337games.io
 127.0.0.1 soadicithaiy.net
 127.0.0.1 wkpgetvhidtj.com
+127.0.0.1 zeecajichaiw.net
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -145,6 +148,7 @@
 127.0.0.1 ptoaheelaishard.net
 127.0.0.1 geejushoaboustu.net
 127.0.0.1 tigroulseedsipt.net
+127.0.0.1 rhyroubpfurfwoe.com
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 www.bitcoin-kopen.com

@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 161
+# Number of entries: 165
 #
 0.0.0.0 gate.io
 0.0.0.0 etoro.com
@@ -12,6 +12,7 @@
 0.0.0.0 upbury.com
 0.0.0.0 rtmark.net
 0.0.0.0 mctanj.com
+0.0.0.0 3commas.io
 0.0.0.0 plus500.com
 0.0.0.0 otoadom.com
 0.0.0.0 2-wbetz.com
@@ -73,6 +74,7 @@
 0.0.0.0 bouleethie.net
 0.0.0.0 cryptonews.com
 0.0.0.0 hsohrqorrw.com
+0.0.0.0 app.3commas.io
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -105,6 +107,7 @@
 0.0.0.0 www.1337games.io
 0.0.0.0 soadicithaiy.net
 0.0.0.0 wkpgetvhidtj.com
+0.0.0.0 zeecajichaiw.net
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
@@ -145,6 +148,7 @@
 0.0.0.0 ptoaheelaishard.net
 0.0.0.0 geejushoaboustu.net
 0.0.0.0 tigroulseedsipt.net
+0.0.0.0 rhyroubpfurfwoe.com
 0.0.0.0 topsolutions.rdtk.io
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 www.bitcoin-kopen.com
