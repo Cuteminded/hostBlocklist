@@ -96,6 +96,7 @@
 127.0.0.1 fehwcokgnar.com
 127.0.0.1 kqodiohzucg.com
 127.0.0.1 tagruglegni.net
+127.0.0.1 kettakihome.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -111,6 +112,7 @@
 127.0.0.1 wkpgetvhidtj.com
 127.0.0.1 zeecajichaiw.net
 127.0.0.1 grochoognast.net
+127.0.0.1 iwtfofbhnywk.com
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -129,6 +131,7 @@
 127.0.0.1 cointelegraph.com
 127.0.0.1 aiveemtomsaix.net
 127.0.0.1 interbuzznews.com
+127.0.0.1 zampastouzuco.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
