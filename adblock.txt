@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 169
+! Number of entries: 175
 !
 
 ||gate.io^
@@ -112,6 +112,7 @@
 ||soadicithaiy.net^
 ||wkpgetvhidtj.com^
 ||zeecajichaiw.net^
+||grochoognast.net^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
@@ -128,6 +129,8 @@
 ||hwpqcfhoccqxp.com^
 ||cplhpdxbdeyvy.com^
 ||cointelegraph.com^
+||aiveemtomsaix.net^
+||interbuzznews.com^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -154,8 +157,10 @@
 ||geejushoaboustu.net^
 ||tigroulseedsipt.net^
 ||rhyroubpfurfwoe.com^
+||wugroansaghadry.com^
 ||topsolutions.rdtk.io^
 ||www.getsmartyapp.com^
+||top-casino-online.nl^
 ||www.bitcoin-kopen.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
@@ -165,6 +170,7 @@
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||camp.purchase-shop.com^
+||online-casino-lijst.nl^
 ||bestsurferprotector.com^
 ||check-tl-ver-198-d.buzz^
 ||interruptchalkedlie.com^

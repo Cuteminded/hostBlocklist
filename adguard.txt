@@ -110,6 +110,7 @@
 127.0.0.1 soadicithaiy.net
 127.0.0.1 wkpgetvhidtj.com
 127.0.0.1 zeecajichaiw.net
+127.0.0.1 grochoognast.net
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -126,6 +127,8 @@
 127.0.0.1 hwpqcfhoccqxp.com
 127.0.0.1 cplhpdxbdeyvy.com
 127.0.0.1 cointelegraph.com
+127.0.0.1 aiveemtomsaix.net
+127.0.0.1 interbuzznews.com
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -152,8 +155,10 @@
 127.0.0.1 geejushoaboustu.net
 127.0.0.1 tigroulseedsipt.net
 127.0.0.1 rhyroubpfurfwoe.com
+127.0.0.1 wugroansaghadry.com
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
+127.0.0.1 top-casino-online.nl
 127.0.0.1 www.bitcoin-kopen.com
 127.0.0.1 mysurferprotector.com
 127.0.0.1 runsamuraiapp.monster
@@ -163,6 +168,7 @@
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com
+127.0.0.1 online-casino-lijst.nl
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com
