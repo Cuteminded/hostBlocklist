@@ -6,6 +6,7 @@
 !
 
 127.0.0.1 gate.io
+127.0.0.1 href.li
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
 127.0.0.1 pemsrv.com
@@ -40,6 +41,7 @@
 127.0.0.1 gvarabge.com
 127.0.0.1 zoom56vp.com
 127.0.0.1 amdkmamc.com
+127.0.0.1 gnnljqqo.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -123,6 +125,7 @@
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 hwpqcfhoccqxp.com
 127.0.0.1 cplhpdxbdeyvy.com
+127.0.0.1 cointelegraph.com
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -169,4 +172,5 @@
 127.0.0.1 pubads.g.doubleclick.uk.net
 127.0.0.1 dakcc.check-tl-ver-198-d.buzz
 127.0.0.1 unfortunatelydroopinglying.com
+127.0.0.1 besteonlinecasinosnederland.net
 127.0.0.1 watchdevelopedintenselythe-file.top

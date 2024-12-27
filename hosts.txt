@@ -3,9 +3,10 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 165
+# Number of entries: 169
 #
 0.0.0.0 gate.io
+0.0.0.0 href.li
 0.0.0.0 etoro.com
 0.0.0.0 puarg.org
 0.0.0.0 pemsrv.com
@@ -40,6 +41,7 @@
 0.0.0.0 gvarabge.com
 0.0.0.0 zoom56vp.com
 0.0.0.0 amdkmamc.com
+0.0.0.0 gnnljqqo.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -123,6 +125,7 @@
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 hwpqcfhoccqxp.com
 0.0.0.0 cplhpdxbdeyvy.com
+0.0.0.0 cointelegraph.com
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -169,4 +172,5 @@
 0.0.0.0 pubads.g.doubleclick.uk.net
 0.0.0.0 dakcc.check-tl-ver-198-d.buzz
 0.0.0.0 unfortunatelydroopinglying.com
+0.0.0.0 besteonlinecasinosnederland.net
 0.0.0.0 watchdevelopedintenselythe-file.top
