@@ -42,6 +42,7 @@
 127.0.0.1 zoom56vp.com
 127.0.0.1 amdkmamc.com
 127.0.0.1 gnnljqqo.com
+127.0.0.1 looopings.nl
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -113,6 +114,7 @@
 127.0.0.1 zeecajichaiw.net
 127.0.0.1 grochoognast.net
 127.0.0.1 iwtfofbhnywk.com
+127.0.0.1 www.looopings.nl
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
