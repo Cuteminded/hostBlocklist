@@ -78,6 +78,7 @@
 127.0.0.1 cryptonews.com
 127.0.0.1 hsohrqorrw.com
 127.0.0.1 app.3commas.io
+127.0.0.1 doanaudabu.net
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -161,6 +162,7 @@
 127.0.0.1 tigroulseedsipt.net
 127.0.0.1 rhyroubpfurfwoe.com
 127.0.0.1 wugroansaghadry.com
+127.0.0.1 wounofoarausooy.net
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 top-casino-online.nl
