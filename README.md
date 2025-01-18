@@ -1,4 +1,4 @@
 # Lizzys Blocklist
 A list of annoying spam domains<br>
-Number of Domains: 180<br>
-Last modified: 28-12-2024<br>
+Number of Domains: 181<br>
+Last modified: 18-01-2025<br>
