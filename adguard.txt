@@ -79,6 +79,7 @@
 127.0.0.1 hsohrqorrw.com
 127.0.0.1 app.3commas.io
 127.0.0.1 doanaudabu.net
+127.0.0.1 qcvsqlgtkh.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -116,6 +117,7 @@
 127.0.0.1 grochoognast.net
 127.0.0.1 iwtfofbhnywk.com
 127.0.0.1 www.looopings.nl
+127.0.0.1 phahifoobsie.net
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
