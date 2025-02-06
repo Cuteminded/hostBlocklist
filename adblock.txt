@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 185
+! Number of entries: 189
 !
 
 ||gate.io^
@@ -60,6 +60,8 @@
 ||carbonads.com^
 ||fktnupipm.com^
 ||wuaebbdpx.com^
+||ifpoanuya.com^
+||sharethis.com^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -102,6 +104,7 @@
 ||kqodiohzucg.com^
 ||tagruglegni.net^
 ||kettakihome.com^
+||l.sharethis.com^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -139,6 +142,7 @@
 ||aiveemtomsaix.net^
 ||interbuzznews.com^
 ||zampastouzuco.net^
+||foalaugrigoak.net^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^

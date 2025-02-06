@@ -58,6 +58,8 @@
 127.0.0.1 carbonads.com
 127.0.0.1 fktnupipm.com
 127.0.0.1 wuaebbdpx.com
+127.0.0.1 ifpoanuya.com
+127.0.0.1 sharethis.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -100,6 +102,7 @@
 127.0.0.1 kqodiohzucg.com
 127.0.0.1 tagruglegni.net
 127.0.0.1 kettakihome.com
+127.0.0.1 l.sharethis.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -137,6 +140,7 @@
 127.0.0.1 aiveemtomsaix.net
 127.0.0.1 interbuzznews.com
 127.0.0.1 zampastouzuco.net
+127.0.0.1 foalaugrigoak.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
