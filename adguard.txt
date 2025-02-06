@@ -178,6 +178,8 @@
 127.0.0.1 advancedadblocker.pro
 127.0.0.1 joogruphezefaul.netcd
 127.0.0.1 www.cplhpdxbdeyvy.com
+127.0.0.1 quickerapparently.com
+127.0.0.1 hostileconductive.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com

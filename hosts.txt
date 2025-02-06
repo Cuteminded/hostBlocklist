@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 189
+# Number of entries: 191
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -178,6 +178,8 @@
 0.0.0.0 advancedadblocker.pro
 0.0.0.0 joogruphezefaul.netcd
 0.0.0.0 www.cplhpdxbdeyvy.com
+0.0.0.0 quickerapparently.com
+0.0.0.0 hostileconductive.com
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com
