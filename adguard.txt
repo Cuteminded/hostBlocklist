@@ -64,6 +64,7 @@
 127.0.0.1 ifpoanuya.com
 127.0.0.1 sharethis.com
 127.0.0.1 buynenjoy.com
+127.0.0.1 paysenger.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -185,6 +186,7 @@
 127.0.0.1 www.cplhpdxbdeyvy.com
 127.0.0.1 quickerapparently.com
 127.0.0.1 hostileconductive.com
+127.0.0.1 join.proactiveize.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com
