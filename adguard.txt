@@ -160,6 +160,7 @@
 127.0.0.1 sholraidsoalro.net
 127.0.0.1 wouhikeelichoo.net
 127.0.0.1 go.smartertink.com
+127.0.0.1 revcontent.network
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -175,6 +176,7 @@
 127.0.0.1 rhyroubpfurfwoe.com
 127.0.0.1 wugroansaghadry.com
 127.0.0.1 wounofoarausooy.net
+127.0.0.1 lp.pickmysearch.com
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 top-casino-online.nl
