@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 200
+! Number of entries: 201
 !
 
 ||gate.io^
@@ -110,6 +110,7 @@
 ||tagruglegni.net^
 ||kettakihome.com^
 ||l.sharethis.com^
+||cooliwoudol.net^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^

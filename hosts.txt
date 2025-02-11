@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 200
+# Number of entries: 201
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -108,6 +108,7 @@
 0.0.0.0 tagruglegni.net
 0.0.0.0 kettakihome.com
 0.0.0.0 l.sharethis.com
+0.0.0.0 cooliwoudol.net
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
