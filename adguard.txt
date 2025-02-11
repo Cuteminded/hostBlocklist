@@ -7,6 +7,7 @@
 
 127.0.0.1 gate.io
 127.0.0.1 href.li
+127.0.0.1 wecv.io
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
 127.0.0.1 pemsrv.com
@@ -20,6 +21,7 @@
 127.0.0.1 www.gate.io
 127.0.0.1 tzegilo.com
 127.0.0.1 pizzabar.ru
+127.0.0.1 stylenow.co
 127.0.0.1 zaltaumi.net
 127.0.0.1 potsaglu.net
 127.0.0.1 go.etoro.com
@@ -43,6 +45,7 @@
 127.0.0.1 amdkmamc.com
 127.0.0.1 gnnljqqo.com
 127.0.0.1 looopings.nl
+127.0.0.1 foresets.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -60,6 +63,7 @@
 127.0.0.1 wuaebbdpx.com
 127.0.0.1 ifpoanuya.com
 127.0.0.1 sharethis.com
+127.0.0.1 buynenjoy.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -154,6 +158,7 @@
 127.0.0.1 coopsoaglipoul.net
 127.0.0.1 sholraidsoalro.net
 127.0.0.1 wouhikeelichoo.net
+127.0.0.1 go.smartertink.com
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
