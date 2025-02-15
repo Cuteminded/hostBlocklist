@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/FzzyLizzyy/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 201
+# Number of entries: 204
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -46,6 +46,7 @@
 0.0.0.0 gnnljqqo.com
 0.0.0.0 looopings.nl
 0.0.0.0 foresets.com
+0.0.0.0 apparata.net
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -65,6 +66,7 @@
 0.0.0.0 sharethis.com
 0.0.0.0 buynenjoy.com
 0.0.0.0 paysenger.com
+0.0.0.0 blibberon.xyz
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -127,6 +129,7 @@
 0.0.0.0 iwtfofbhnywk.com
 0.0.0.0 www.looopings.nl
 0.0.0.0 phahifoobsie.net
+0.0.0.0 www.apparata.net
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd

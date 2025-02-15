@@ -46,6 +46,7 @@
 127.0.0.1 gnnljqqo.com
 127.0.0.1 looopings.nl
 127.0.0.1 foresets.com
+127.0.0.1 apparata.net
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -65,6 +66,7 @@
 127.0.0.1 sharethis.com
 127.0.0.1 buynenjoy.com
 127.0.0.1 paysenger.com
+127.0.0.1 blibberon.xyz
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -127,6 +129,7 @@
 127.0.0.1 iwtfofbhnywk.com
 127.0.0.1 www.looopings.nl
 127.0.0.1 phahifoobsie.net
+127.0.0.1 www.apparata.net
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
