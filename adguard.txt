@@ -151,6 +151,7 @@
 127.0.0.1 interbuzznews.com
 127.0.0.1 zampastouzuco.net
 127.0.0.1 foalaugrigoak.net
+127.0.0.1 keejachidoaze.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
