@@ -2,7 +2,7 @@ import time
 
 title = "Lizzys Blocklist"
 description = "A list of annoying spam domains"
-homepage = "https://github.com/FzzyLizzyy/hostBlocklist"
+homepage = "https://github.com/cuteminded/hostBlocklist"
 
 domains = []
 
