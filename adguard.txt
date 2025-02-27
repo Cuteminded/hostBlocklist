@@ -2,7 +2,7 @@
 ! Title: Lizzys Blocklist
 ! Expires: 1 day
 ! Description: A list of annoying spam domains
-! Homepage: https://github.com/FzzyLizzyy/hostBlocklist
+! Homepage: https://github.com/cuteminded/hostBlocklist
 !
 
 127.0.0.1 gate.io
