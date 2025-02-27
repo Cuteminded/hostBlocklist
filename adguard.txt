@@ -67,6 +67,7 @@
 127.0.0.1 buynenjoy.com
 127.0.0.1 paysenger.com
 127.0.0.1 blibberon.xyz
+127.0.0.1 carbonads.net
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -152,6 +153,7 @@
 127.0.0.1 zampastouzuco.net
 127.0.0.1 foalaugrigoak.net
 127.0.0.1 keejachidoaze.net
+127.0.0.1 srv.carbonads.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
