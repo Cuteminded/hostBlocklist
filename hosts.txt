@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 208
+# Number of entries: 211
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -47,6 +47,7 @@
 0.0.0.0 looopings.nl
 0.0.0.0 foresets.com
 0.0.0.0 apparata.net
+0.0.0.0 storyann.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -154,6 +155,7 @@
 0.0.0.0 foalaugrigoak.net
 0.0.0.0 keejachidoaze.net
 0.0.0.0 srv.carbonads.net
+0.0.0.0 8461.storyann.com
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -197,6 +199,7 @@
 0.0.0.0 quickerapparently.com
 0.0.0.0 hostileconductive.com
 0.0.0.0 join.proactiveize.com
+0.0.0.0 surroundednetwork.com
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com

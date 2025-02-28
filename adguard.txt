@@ -47,6 +47,7 @@
 127.0.0.1 looopings.nl
 127.0.0.1 foresets.com
 127.0.0.1 apparata.net
+127.0.0.1 storyann.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -154,6 +155,7 @@
 127.0.0.1 foalaugrigoak.net
 127.0.0.1 keejachidoaze.net
 127.0.0.1 srv.carbonads.net
+127.0.0.1 8461.storyann.com
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -197,6 +199,7 @@
 127.0.0.1 quickerapparently.com
 127.0.0.1 hostileconductive.com
 127.0.0.1 join.proactiveize.com
+127.0.0.1 surroundednetwork.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com
