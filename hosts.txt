@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 211
+# Number of entries: 216
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -114,6 +114,8 @@
 0.0.0.0 l.sharethis.com
 0.0.0.0 cooliwoudol.net
 0.0.0.0 chaitchoukr.net
+0.0.0.0 ptkfsvvmasd.com
+0.0.0.0 hoalaicheey.com
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -133,6 +135,7 @@
 0.0.0.0 www.looopings.nl
 0.0.0.0 phahifoobsie.net
 0.0.0.0 www.apparata.net
+0.0.0.0 sysmeasuring.net
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
@@ -156,6 +159,7 @@
 0.0.0.0 keejachidoaze.net
 0.0.0.0 srv.carbonads.net
 0.0.0.0 8461.storyann.com
+0.0.0.0 pteekauksaupt.net
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -211,6 +215,7 @@
 0.0.0.0 fruitlesshooraytheirs.com
 0.0.0.0 download-adblock-bear.com
 0.0.0.0 bestecasinozondercruks.com
+0.0.0.0 download-adblockgenius.com
 0.0.0.0 pubads.g.doubleclick.uk.net
 0.0.0.0 dakcc.check-tl-ver-198-d.buzz
 0.0.0.0 unfortunatelydroopinglying.com

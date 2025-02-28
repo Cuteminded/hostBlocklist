@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 211
+! Number of entries: 216
 !
 
 ||gate.io^
@@ -116,6 +116,8 @@
 ||l.sharethis.com^
 ||cooliwoudol.net^
 ||chaitchoukr.net^
+||ptkfsvvmasd.com^
+||hoalaicheey.com^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -135,6 +137,7 @@
 ||www.looopings.nl^
 ||phahifoobsie.net^
 ||www.apparata.net^
+||sysmeasuring.net^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
@@ -158,6 +161,7 @@
 ||keejachidoaze.net^
 ||srv.carbonads.net^
 ||8461.storyann.com^
+||pteekauksaupt.net^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -213,6 +217,7 @@
 ||fruitlesshooraytheirs.com^
 ||download-adblock-bear.com^
 ||bestecasinozondercruks.com^
+||download-adblockgenius.com^
 ||pubads.g.doubleclick.uk.net^
 ||dakcc.check-tl-ver-198-d.buzz^
 ||unfortunatelydroopinglying.com^

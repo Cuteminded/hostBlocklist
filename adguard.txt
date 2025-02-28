@@ -114,6 +114,8 @@
 127.0.0.1 l.sharethis.com
 127.0.0.1 cooliwoudol.net
 127.0.0.1 chaitchoukr.net
+127.0.0.1 ptkfsvvmasd.com
+127.0.0.1 hoalaicheey.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -133,6 +135,7 @@
 127.0.0.1 www.looopings.nl
 127.0.0.1 phahifoobsie.net
 127.0.0.1 www.apparata.net
+127.0.0.1 sysmeasuring.net
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -156,6 +159,7 @@
 127.0.0.1 keejachidoaze.net
 127.0.0.1 srv.carbonads.net
 127.0.0.1 8461.storyann.com
+127.0.0.1 pteekauksaupt.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -211,6 +215,7 @@
 127.0.0.1 fruitlesshooraytheirs.com
 127.0.0.1 download-adblock-bear.com
 127.0.0.1 bestecasinozondercruks.com
+127.0.0.1 download-adblockgenius.com
 127.0.0.1 pubads.g.doubleclick.uk.net
 127.0.0.1 dakcc.check-tl-ver-198-d.buzz
 127.0.0.1 unfortunatelydroopinglying.com
