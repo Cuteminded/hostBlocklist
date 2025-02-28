@@ -259,6 +259,7 @@
 127.0.0.1 interruptchalkedlie.com
 127.0.0.1 www.intelligenceadx.com
 127.0.0.1 adnetworkperformance.com
+127.0.0.1 www.onclickpredictiv.com
 127.0.0.1 ucdnondemandptimecdn.com
 127.0.0.1 fruitlesshooraytheirs.com
 127.0.0.1 download-adblock-bear.com
@@ -271,4 +272,3 @@
 127.0.0.1 unfortunatelydroopinglying.com
 127.0.0.1 besteonlinecasinosnederland.net
 127.0.0.1 watchdevelopedintenselythe-file.top
-127.0.0.1 www.onclickpredictiv.comonclickbright.com
