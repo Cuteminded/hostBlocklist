@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 216
+! Number of entries: 267
 !
 
 ||gate.io^
@@ -17,6 +17,9 @@
 ||rtmark.net^
 ||mctanj.com^
 ||3commas.io^
+||adcash.com^
+||fbcdn2.com^
+||achcdn.com^
 ||plus500.com^
 ||otoadom.com^
 ||2-wbetz.com^
@@ -24,6 +27,7 @@
 ||tzegilo.com^
 ||pizzabar.ru^
 ||stylenow.co^
+||adplxmd.com^
 ||zaltaumi.net^
 ||potsaglu.net^
 ||go.etoro.com^
@@ -50,6 +54,7 @@
 ||foresets.com^
 ||apparata.net^
 ||storyann.com^
+||ads.adk2.com^
 ||www.etoro.com^
 ||sven-play.com^
 ||royalchin.com^
@@ -71,6 +76,9 @@
 ||paysenger.com^
 ||blibberon.xyz^
 ||carbonads.net^
+||velocecdn.com^
+||nextoptim.com^
+||venturead.com^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -93,6 +101,12 @@
 ||app.3commas.io^
 ||doanaudabu.net^
 ||qcvsqlgtkh.com^
+||naugaugair.com^
+||maxonclick.com^
+||onclicktop.com^
+||toponclick.com^
+||cdnquality.com^
+||befirstcdn.com^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -118,6 +132,12 @@
 ||chaitchoukr.net^
 ||ptkfsvvmasd.com^
 ||hoalaicheey.com^
+||velocitycdn.com^
+||linkonclick.com^
+||buzzonclick.com^
+||cashtrafic.info^
+||cdn.adplxmd.com^
+||codeonclick.com^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -138,6 +158,12 @@
 ||phahifoobsie.net^
 ||www.apparata.net^
 ||sysmeasuring.net^
+||celeritascdn.com^
+||superfastcdn.com^
+||theadgateway.com^
+||yieldtraffic.com^
+||onclicksuper.com^
+||superonclick.com^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
@@ -162,6 +188,13 @@
 ||srv.carbonads.net^
 ||8461.storyann.com^
 ||pteekauksaupt.net^
+||brigntonclick.com^
+||buzzadnetwork.com^
+||codeadnetwork.com^
+||geniusdisplay.com^
+||onclickbright.com^
+||onclickgenius.com^
+||moneymakercdn.com^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -177,6 +210,10 @@
 ||wouhikeelichoo.net^
 ||go.smartertink.com^
 ||revcontent.network^
+||adexchangeguru.com^
+||liveadexchange.com^
+||pulseadnetwork.com^
+||www.toponclick.com^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
@@ -193,9 +230,14 @@
 ||wugroansaghadry.com^
 ||wounofoarausooy.net^
 ||lp.pickmysearch.com^
+||brightadnetwork.com^
+||liveadoptimizer.com^
+||tradeadexchange.com^
+||commercialvalue.org^
 ||topsolutions.rdtk.io^
 ||www.getsmartyapp.com^
 ||top-casino-online.nl^
+||adplexmedia.adk2.com^
 ||www.bitcoin-kopen.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
@@ -206,20 +248,29 @@
 ||hostileconductive.com^
 ||join.proactiveize.com^
 ||surroundednetwork.com^
+||adexchangemachine.com^
+||predictiondisplay.com^
+||www.geniusdisplay.com^
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||camp.purchase-shop.com^
 ||online-casino-lijst.nl^
+||predictivadnetwork.com^
 ||bestsurferprotector.com^
 ||check-tl-ver-198-d.buzz^
 ||interruptchalkedlie.com^
 ||www.intelligenceadx.com^
+||adnetworkperformance.com^
+||ucdnondemandptimecdn.com^
 ||fruitlesshooraytheirs.com^
 ||download-adblock-bear.com^
+||adexchangeperformance.com^
 ||bestecasinozondercruks.com^
 ||download-adblockgenius.com^
 ||pubads.g.doubleclick.uk.net^
+||venturead.commaxonclick.com^
 ||dakcc.check-tl-ver-198-d.buzz^
 ||unfortunatelydroopinglying.com^
 ||besteonlinecasinosnederland.net^
 ||watchdevelopedintenselythe-file.top^
+||www.onclickpredictiv.comonclickbright.com^
