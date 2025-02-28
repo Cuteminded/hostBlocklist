@@ -259,6 +259,7 @@
 0.0.0.0 interruptchalkedlie.com
 0.0.0.0 www.intelligenceadx.com
 0.0.0.0 adnetworkperformance.com
+0.0.0.0 www.onclickpredictiv.com
 0.0.0.0 ucdnondemandptimecdn.com
 0.0.0.0 fruitlesshooraytheirs.com
 0.0.0.0 download-adblock-bear.com
@@ -271,4 +272,3 @@
 0.0.0.0 unfortunatelydroopinglying.com
 0.0.0.0 besteonlinecasinosnederland.net
 0.0.0.0 watchdevelopedintenselythe-file.top
-0.0.0.0 www.onclickpredictiv.comonclickbright.com
