@@ -1,7 +1,7 @@
 [Adblock Plus]
 ! Title: Lizzys Blocklist
 ! Expires: 1 day
-! Description: A list of annoying spam domains
+! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
 ! Number of entries: 267
