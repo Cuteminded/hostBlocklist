@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 216
+# Number of entries: 267
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -15,6 +15,9 @@
 0.0.0.0 rtmark.net
 0.0.0.0 mctanj.com
 0.0.0.0 3commas.io
+0.0.0.0 adcash.com
+0.0.0.0 fbcdn2.com
+0.0.0.0 achcdn.com
 0.0.0.0 plus500.com
 0.0.0.0 otoadom.com
 0.0.0.0 2-wbetz.com
@@ -22,6 +25,7 @@
 0.0.0.0 tzegilo.com
 0.0.0.0 pizzabar.ru
 0.0.0.0 stylenow.co
+0.0.0.0 adplxmd.com
 0.0.0.0 zaltaumi.net
 0.0.0.0 potsaglu.net
 0.0.0.0 go.etoro.com
@@ -48,6 +52,7 @@
 0.0.0.0 foresets.com
 0.0.0.0 apparata.net
 0.0.0.0 storyann.com
+0.0.0.0 ads.adk2.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -69,6 +74,9 @@
 0.0.0.0 paysenger.com
 0.0.0.0 blibberon.xyz
 0.0.0.0 carbonads.net
+0.0.0.0 velocecdn.com
+0.0.0.0 nextoptim.com
+0.0.0.0 venturead.com
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -91,6 +99,12 @@
 0.0.0.0 app.3commas.io
 0.0.0.0 doanaudabu.net
 0.0.0.0 qcvsqlgtkh.com
+0.0.0.0 naugaugair.com
+0.0.0.0 maxonclick.com
+0.0.0.0 onclicktop.com
+0.0.0.0 toponclick.com
+0.0.0.0 cdnquality.com
+0.0.0.0 befirstcdn.com
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -116,6 +130,12 @@
 0.0.0.0 chaitchoukr.net
 0.0.0.0 ptkfsvvmasd.com
 0.0.0.0 hoalaicheey.com
+0.0.0.0 velocitycdn.com
+0.0.0.0 linkonclick.com
+0.0.0.0 buzzonclick.com
+0.0.0.0 cashtrafic.info
+0.0.0.0 cdn.adplxmd.com
+0.0.0.0 codeonclick.com
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -136,6 +156,12 @@
 0.0.0.0 phahifoobsie.net
 0.0.0.0 www.apparata.net
 0.0.0.0 sysmeasuring.net
+0.0.0.0 celeritascdn.com
+0.0.0.0 superfastcdn.com
+0.0.0.0 theadgateway.com
+0.0.0.0 yieldtraffic.com
+0.0.0.0 onclicksuper.com
+0.0.0.0 superonclick.com
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
@@ -160,6 +186,13 @@
 0.0.0.0 srv.carbonads.net
 0.0.0.0 8461.storyann.com
 0.0.0.0 pteekauksaupt.net
+0.0.0.0 brigntonclick.com
+0.0.0.0 buzzadnetwork.com
+0.0.0.0 codeadnetwork.com
+0.0.0.0 geniusdisplay.com
+0.0.0.0 onclickbright.com
+0.0.0.0 onclickgenius.com
+0.0.0.0 moneymakercdn.com
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -175,6 +208,10 @@
 0.0.0.0 wouhikeelichoo.net
 0.0.0.0 go.smartertink.com
 0.0.0.0 revcontent.network
+0.0.0.0 adexchangeguru.com
+0.0.0.0 liveadexchange.com
+0.0.0.0 pulseadnetwork.com
+0.0.0.0 www.toponclick.com
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
@@ -191,9 +228,14 @@
 0.0.0.0 wugroansaghadry.com
 0.0.0.0 wounofoarausooy.net
 0.0.0.0 lp.pickmysearch.com
+0.0.0.0 brightadnetwork.com
+0.0.0.0 liveadoptimizer.com
+0.0.0.0 tradeadexchange.com
+0.0.0.0 commercialvalue.org
 0.0.0.0 topsolutions.rdtk.io
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 top-casino-online.nl
+0.0.0.0 adplexmedia.adk2.com
 0.0.0.0 www.bitcoin-kopen.com
 0.0.0.0 mysurferprotector.com
 0.0.0.0 runsamuraiapp.monster
@@ -204,20 +246,29 @@
 0.0.0.0 hostileconductive.com
 0.0.0.0 join.proactiveize.com
 0.0.0.0 surroundednetwork.com
+0.0.0.0 adexchangemachine.com
+0.0.0.0 predictiondisplay.com
+0.0.0.0 www.geniusdisplay.com
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com
 0.0.0.0 online-casino-lijst.nl
+0.0.0.0 predictivadnetwork.com
 0.0.0.0 bestsurferprotector.com
 0.0.0.0 check-tl-ver-198-d.buzz
 0.0.0.0 interruptchalkedlie.com
 0.0.0.0 www.intelligenceadx.com
+0.0.0.0 adnetworkperformance.com
+0.0.0.0 ucdnondemandptimecdn.com
 0.0.0.0 fruitlesshooraytheirs.com
 0.0.0.0 download-adblock-bear.com
+0.0.0.0 adexchangeperformance.com
 0.0.0.0 bestecasinozondercruks.com
 0.0.0.0 download-adblockgenius.com
 0.0.0.0 pubads.g.doubleclick.uk.net
+0.0.0.0 venturead.commaxonclick.com
 0.0.0.0 dakcc.check-tl-ver-198-d.buzz
 0.0.0.0 unfortunatelydroopinglying.com
 0.0.0.0 besteonlinecasinosnederland.net
 0.0.0.0 watchdevelopedintenselythe-file.top
+0.0.0.0 www.onclickpredictiv.comonclickbright.com
