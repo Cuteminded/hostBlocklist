@@ -136,6 +136,7 @@
 127.0.0.1 cashtrafic.info
 127.0.0.1 cdn.adplxmd.com
 127.0.0.1 codeonclick.com
+127.0.0.1 shitsoojacm.net
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
