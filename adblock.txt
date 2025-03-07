@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 268
+! Number of entries: 274
 !
 
 ||gate.io^
@@ -79,6 +79,7 @@
 ||velocecdn.com^
 ||nextoptim.com^
 ||venturead.com^
+||hoveltran.xyz^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -107,6 +108,7 @@
 ||toponclick.com^
 ||cdnquality.com^
 ||befirstcdn.com^
+||daily-web.live^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -165,6 +167,7 @@
 ||yieldtraffic.com^
 ||onclicksuper.com^
 ||superonclick.com^
+||adultgames.space^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
@@ -215,6 +218,7 @@
 ||liveadexchange.com^
 ||pulseadnetwork.com^
 ||www.toponclick.com^
+||ptifaustounsaz.com^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
@@ -235,6 +239,7 @@
 ||liveadoptimizer.com^
 ||tradeadexchange.com^
 ||commercialvalue.org^
+||eptoufeebimeesh.net^
 ||topsolutions.rdtk.io^
 ||www.getsmartyapp.com^
 ||top-casino-online.nl^
@@ -257,6 +262,7 @@
 ||camp.purchase-shop.com^
 ||online-casino-lijst.nl^
 ||predictivadnetwork.com^
+||ak.stikroltiltoowi.net^
 ||bestsurferprotector.com^
 ||check-tl-ver-198-d.buzz^
 ||interruptchalkedlie.com^
