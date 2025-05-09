@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 274
+! Number of entries: 279
 !
 
 ||gate.io^
@@ -12,6 +12,7 @@
 ||wecv.io^
 ||etoro.com^
 ||puarg.org^
+||obqj2.com^
 ||pemsrv.com^
 ||upbury.com^
 ||rtmark.net^
@@ -80,6 +81,7 @@
 ||nextoptim.com^
 ||venturead.com^
 ||hoveltran.xyz^
+||vault23jn.com^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -244,6 +246,7 @@
 ||www.getsmartyapp.com^
 ||top-casino-online.nl^
 ||adplexmedia.adk2.com^
+||adblockerfortify.pro^
 ||www.bitcoin-kopen.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
@@ -263,6 +266,7 @@
 ||online-casino-lijst.nl^
 ||predictivadnetwork.com^
 ||ak.stikroltiltoowi.net^
+||adblockerproshield.pro^
 ||bestsurferprotector.com^
 ||check-tl-ver-198-d.buzz^
 ||interruptchalkedlie.com^
@@ -277,6 +281,7 @@
 ||download-adblockgenius.com^
 ||pubads.g.doubleclick.uk.net^
 ||venturead.commaxonclick.com^
+||adblock-genius-download.com^
 ||dakcc.check-tl-ver-198-d.buzz^
 ||unfortunatelydroopinglying.com^
 ||besteonlinecasinosnederland.net^

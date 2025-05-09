@@ -10,6 +10,7 @@
 127.0.0.1 wecv.io
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
+127.0.0.1 obqj2.com
 127.0.0.1 pemsrv.com
 127.0.0.1 upbury.com
 127.0.0.1 rtmark.net
@@ -78,6 +79,7 @@
 127.0.0.1 nextoptim.com
 127.0.0.1 venturead.com
 127.0.0.1 hoveltran.xyz
+127.0.0.1 vault23jn.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -242,6 +244,7 @@
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 top-casino-online.nl
 127.0.0.1 adplexmedia.adk2.com
+127.0.0.1 adblockerfortify.pro
 127.0.0.1 www.bitcoin-kopen.com
 127.0.0.1 mysurferprotector.com
 127.0.0.1 runsamuraiapp.monster
@@ -261,6 +264,7 @@
 127.0.0.1 online-casino-lijst.nl
 127.0.0.1 predictivadnetwork.com
 127.0.0.1 ak.stikroltiltoowi.net
+127.0.0.1 adblockerproshield.pro
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com
@@ -275,6 +279,7 @@
 127.0.0.1 download-adblockgenius.com
 127.0.0.1 pubads.g.doubleclick.uk.net
 127.0.0.1 venturead.commaxonclick.com
+127.0.0.1 adblock-genius-download.com
 127.0.0.1 dakcc.check-tl-ver-198-d.buzz
 127.0.0.1 unfortunatelydroopinglying.com
 127.0.0.1 besteonlinecasinosnederland.net

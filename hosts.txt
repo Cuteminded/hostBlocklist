@@ -3,13 +3,14 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 274
+# Number of entries: 279
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
 0.0.0.0 wecv.io
 0.0.0.0 etoro.com
 0.0.0.0 puarg.org
+0.0.0.0 obqj2.com
 0.0.0.0 pemsrv.com
 0.0.0.0 upbury.com
 0.0.0.0 rtmark.net
@@ -78,6 +79,7 @@
 0.0.0.0 nextoptim.com
 0.0.0.0 venturead.com
 0.0.0.0 hoveltran.xyz
+0.0.0.0 vault23jn.com
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -242,6 +244,7 @@
 0.0.0.0 www.getsmartyapp.com
 0.0.0.0 top-casino-online.nl
 0.0.0.0 adplexmedia.adk2.com
+0.0.0.0 adblockerfortify.pro
 0.0.0.0 www.bitcoin-kopen.com
 0.0.0.0 mysurferprotector.com
 0.0.0.0 runsamuraiapp.monster
@@ -261,6 +264,7 @@
 0.0.0.0 online-casino-lijst.nl
 0.0.0.0 predictivadnetwork.com
 0.0.0.0 ak.stikroltiltoowi.net
+0.0.0.0 adblockerproshield.pro
 0.0.0.0 bestsurferprotector.com
 0.0.0.0 check-tl-ver-198-d.buzz
 0.0.0.0 interruptchalkedlie.com
@@ -275,6 +279,7 @@
 0.0.0.0 download-adblockgenius.com
 0.0.0.0 pubads.g.doubleclick.uk.net
 0.0.0.0 venturead.commaxonclick.com
+0.0.0.0 adblock-genius-download.com
 0.0.0.0 dakcc.check-tl-ver-198-d.buzz
 0.0.0.0 unfortunatelydroopinglying.com
 0.0.0.0 besteonlinecasinosnederland.net
