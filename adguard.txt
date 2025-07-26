@@ -142,6 +142,7 @@
 127.0.0.1 cdn.adplxmd.com
 127.0.0.1 codeonclick.com
 127.0.0.1 shitsoojacm.net
+127.0.0.1 coinspeaker.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -200,6 +201,7 @@
 127.0.0.1 onclickbright.com
 127.0.0.1 onclickgenius.com
 127.0.0.1 moneymakercdn.com
+127.0.0.1 bestegoksites.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -220,6 +222,7 @@
 127.0.0.1 pulseadnetwork.com
 127.0.0.1 www.toponclick.com
 127.0.0.1 ptifaustounsaz.com
+127.0.0.1 esportsinsider.com
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net

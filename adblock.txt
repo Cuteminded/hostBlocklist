@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 280
+! Number of entries: 283
 !
 
 ||gate.io^
@@ -144,6 +144,7 @@
 ||cdn.adplxmd.com^
 ||codeonclick.com^
 ||shitsoojacm.net^
+||coinspeaker.com^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -202,6 +203,7 @@
 ||onclickbright.com^
 ||onclickgenius.com^
 ||moneymakercdn.com^
+||bestegoksites.net^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -222,6 +224,7 @@
 ||pulseadnetwork.com^
 ||www.toponclick.com^
 ||ptifaustounsaz.com^
+||esportsinsider.com^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
