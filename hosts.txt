@@ -3,11 +3,12 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 284
+# Number of entries: 285
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
 0.0.0.0 wecv.io
+0.0.0.0 p2yn.com
 0.0.0.0 etoro.com
 0.0.0.0 puarg.org
 0.0.0.0 obqj2.com

@@ -8,6 +8,7 @@
 127.0.0.1 gate.io
 127.0.0.1 href.li
 127.0.0.1 wecv.io
+127.0.0.1 p2yn.com
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
 127.0.0.1 obqj2.com
