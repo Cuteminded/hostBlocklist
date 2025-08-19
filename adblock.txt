@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 285
+! Number of entries: 288
 !
 
 ||gate.io^
@@ -15,6 +15,7 @@
 ||puarg.org^
 ||obqj2.com^
 ||mrfoe.com^
+||ecovat.eu^
 ||pemsrv.com^
 ||upbury.com^
 ||rtmark.net^
@@ -58,6 +59,7 @@
 ||apparata.net^
 ||storyann.com^
 ||ads.adk2.com^
+||vantara3.com^
 ||www.etoro.com^
 ||sven-play.com^
 ||royalchin.com^
@@ -84,6 +86,7 @@
 ||venturead.com^
 ||hoveltran.xyz^
 ||vault23jn.com^
+||www.ecovat.eu^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
