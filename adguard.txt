@@ -30,6 +30,8 @@
 127.0.0.1 pizzabar.ru
 127.0.0.1 stylenow.co
 127.0.0.1 adplxmd.com
+127.0.0.1 bomhart.ink
+127.0.0.1 bitvavo.com
 127.0.0.1 zaltaumi.net
 127.0.0.1 potsaglu.net
 127.0.0.1 go.etoro.com
@@ -58,6 +60,7 @@
 127.0.0.1 storyann.com
 127.0.0.1 ads.adk2.com
 127.0.0.1 vantara3.com
+127.0.0.1 gurucent.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -114,6 +117,7 @@
 127.0.0.1 cdnquality.com
 127.0.0.1 befirstcdn.com
 127.0.0.1 daily-web.live
+127.0.0.1 wblokgurde.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -275,6 +279,7 @@
 127.0.0.1 predictivadnetwork.com
 127.0.0.1 ak.stikroltiltoowi.net
 127.0.0.1 adblockerproshield.pro
+127.0.0.1 mobile-protector24.com
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com
