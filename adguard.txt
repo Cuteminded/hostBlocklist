@@ -9,6 +9,7 @@
 127.0.0.1 href.li
 127.0.0.1 wecv.io
 127.0.0.1 p2yn.com
+127.0.0.1 2dgg.com
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
 127.0.0.1 obqj2.com
@@ -118,6 +119,7 @@
 127.0.0.1 befirstcdn.com
 127.0.0.1 daily-web.live
 127.0.0.1 wblokgurde.com
+127.0.0.1 luisterrijk.nl
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -151,6 +153,9 @@
 127.0.0.1 codeonclick.com
 127.0.0.1 shitsoojacm.net
 127.0.0.1 coinspeaker.com
+127.0.0.1 www.bitvavo.com
+127.0.0.1 49nyxbets13.com
+127.0.0.1 clickblitzo.com
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -179,6 +184,7 @@
 127.0.0.1 superonclick.com
 127.0.0.1 adultgames.space
 127.0.0.1 eumobkepttor.com
+127.0.0.1 tradetracker.com
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -232,6 +238,7 @@
 127.0.0.1 www.toponclick.com
 127.0.0.1 ptifaustounsaz.com
 127.0.0.1 esportsinsider.com
+127.0.0.1 www.luisterrijk.nl
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -272,6 +279,7 @@
 127.0.0.1 adexchangemachine.com
 127.0.0.1 predictiondisplay.com
 127.0.0.1 www.geniusdisplay.com
+127.0.0.1 click.clickblitzo.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com

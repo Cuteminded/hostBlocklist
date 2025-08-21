@@ -3,12 +3,13 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 294
+# Number of entries: 302
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
 0.0.0.0 wecv.io
 0.0.0.0 p2yn.com
+0.0.0.0 2dgg.com
 0.0.0.0 etoro.com
 0.0.0.0 puarg.org
 0.0.0.0 obqj2.com
@@ -118,6 +119,7 @@
 0.0.0.0 befirstcdn.com
 0.0.0.0 daily-web.live
 0.0.0.0 wblokgurde.com
+0.0.0.0 luisterrijk.nl
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -151,6 +153,9 @@
 0.0.0.0 codeonclick.com
 0.0.0.0 shitsoojacm.net
 0.0.0.0 coinspeaker.com
+0.0.0.0 www.bitvavo.com
+0.0.0.0 49nyxbets13.com
+0.0.0.0 clickblitzo.com
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -179,6 +184,7 @@
 0.0.0.0 superonclick.com
 0.0.0.0 adultgames.space
 0.0.0.0 eumobkepttor.com
+0.0.0.0 tradetracker.com
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
@@ -232,6 +238,7 @@
 0.0.0.0 www.toponclick.com
 0.0.0.0 ptifaustounsaz.com
 0.0.0.0 esportsinsider.com
+0.0.0.0 www.luisterrijk.nl
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
@@ -272,6 +279,7 @@
 0.0.0.0 adexchangemachine.com
 0.0.0.0 predictiondisplay.com
 0.0.0.0 www.geniusdisplay.com
+0.0.0.0 click.clickblitzo.com
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com

@@ -4,13 +4,14 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 294
+! Number of entries: 302
 !
 
 ||gate.io^
 ||href.li^
 ||wecv.io^
 ||p2yn.com^
+||2dgg.com^
 ||etoro.com^
 ||puarg.org^
 ||obqj2.com^
@@ -120,6 +121,7 @@
 ||befirstcdn.com^
 ||daily-web.live^
 ||wblokgurde.com^
+||luisterrijk.nl^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -153,6 +155,9 @@
 ||codeonclick.com^
 ||shitsoojacm.net^
 ||coinspeaker.com^
+||www.bitvavo.com^
+||49nyxbets13.com^
+||clickblitzo.com^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -181,6 +186,7 @@
 ||superonclick.com^
 ||adultgames.space^
 ||eumobkepttor.com^
+||tradetracker.com^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
@@ -234,6 +240,7 @@
 ||www.toponclick.com^
 ||ptifaustounsaz.com^
 ||esportsinsider.com^
+||www.luisterrijk.nl^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
@@ -274,6 +281,7 @@
 ||adexchangemachine.com^
 ||predictiondisplay.com^
 ||www.geniusdisplay.com^
+||click.clickblitzo.com^
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||camp.purchase-shop.com^
