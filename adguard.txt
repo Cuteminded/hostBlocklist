@@ -33,6 +33,7 @@
 127.0.0.1 adplxmd.com
 127.0.0.1 bomhart.ink
 127.0.0.1 bitvavo.com
+127.0.0.1 kokevoc.com
 127.0.0.1 zaltaumi.net
 127.0.0.1 potsaglu.net
 127.0.0.1 go.etoro.com
@@ -89,6 +90,7 @@
 127.0.0.1 hoveltran.xyz
 127.0.0.1 vault23jn.com
 127.0.0.1 www.ecovat.eu
+127.0.0.1 s0-greate.net
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -120,6 +122,7 @@
 127.0.0.1 daily-web.live
 127.0.0.1 wblokgurde.com
 127.0.0.1 luisterrijk.nl
+127.0.0.1 s.viivqjsj.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
