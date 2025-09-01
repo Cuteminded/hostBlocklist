@@ -91,6 +91,7 @@
 127.0.0.1 vault23jn.com
 127.0.0.1 www.ecovat.eu
 127.0.0.1 s0-greate.net
+127.0.0.1 ppebcuvty.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -283,6 +284,7 @@
 127.0.0.1 predictiondisplay.com
 127.0.0.1 www.geniusdisplay.com
 127.0.0.1 click.clickblitzo.com
+127.0.0.1 cluster.aawspeedy.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com
@@ -291,6 +293,7 @@
 127.0.0.1 ak.stikroltiltoowi.net
 127.0.0.1 adblockerproshield.pro
 127.0.0.1 mobile-protector24.com
+127.0.0.1 processesdisplease.com
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com
