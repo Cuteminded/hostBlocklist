@@ -15,6 +15,7 @@
 127.0.0.1 obqj2.com
 127.0.0.1 mrfoe.com
 127.0.0.1 ecovat.eu
+127.0.0.1 bvtpk.com
 127.0.0.1 pemsrv.com
 127.0.0.1 upbury.com
 127.0.0.1 rtmark.net
