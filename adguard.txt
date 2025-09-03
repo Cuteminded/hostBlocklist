@@ -10,6 +10,7 @@
 127.0.0.1 wecv.io
 127.0.0.1 p2yn.com
 127.0.0.1 2dgg.com
+127.0.0.1 8s5s.com
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
 127.0.0.1 obqj2.com
@@ -222,6 +223,7 @@
 127.0.0.1 onclickgenius.com
 127.0.0.1 moneymakercdn.com
 127.0.0.1 bestegoksites.net
+127.0.0.1 ptichoolsougn.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
