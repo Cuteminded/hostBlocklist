@@ -297,6 +297,7 @@
 127.0.0.1 adblockerproshield.pro
 127.0.0.1 mobile-protector24.com
 127.0.0.1 processesdisplease.com
+127.0.0.1 survey-for-sucsess.com
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com
@@ -304,6 +305,7 @@
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 www.onclickpredictiv.com
 127.0.0.1 ucdnondemandptimecdn.com
+127.0.0.1 privacy-guard-mobile.com
 127.0.0.1 fruitlesshooraytheirs.com
 127.0.0.1 download-adblock-bear.com
 127.0.0.1 adexchangeperformance.com
