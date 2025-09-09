@@ -94,6 +94,7 @@
 127.0.0.1 www.ecovat.eu
 127.0.0.1 s0-greate.net
 127.0.0.1 ppebcuvty.com
+127.0.0.1 setapp.sjv.io
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
