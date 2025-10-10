@@ -225,6 +225,8 @@
 127.0.0.1 moneymakercdn.com
 127.0.0.1 bestegoksites.net
 127.0.0.1 ptichoolsougn.net
+127.0.0.1 uvodciakviysj.com
+127.0.0.1 naumeeshobouz.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -269,6 +271,7 @@
 127.0.0.1 commercialvalue.org
 127.0.0.1 eptoufeebimeesh.net
 127.0.0.1 euphoric-square.com
+127.0.0.1 kekreegaidsunge.net
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 www.getsmartyapp.com
 127.0.0.1 top-casino-online.nl
