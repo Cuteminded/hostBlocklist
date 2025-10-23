@@ -25,6 +25,7 @@
 127.0.0.1 adcash.com
 127.0.0.1 fbcdn2.com
 127.0.0.1 achcdn.com
+127.0.0.1 crisp.chat
 127.0.0.1 plus500.com
 127.0.0.1 otoadom.com
 127.0.0.1 2-wbetz.com
@@ -227,6 +228,7 @@
 127.0.0.1 ptichoolsougn.net
 127.0.0.1 uvodciakviysj.com
 127.0.0.1 naumeeshobouz.net
+127.0.0.1 client.crisp.chat
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com

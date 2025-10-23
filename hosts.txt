@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 317
+# Number of entries: 319
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -25,6 +25,7 @@
 0.0.0.0 adcash.com
 0.0.0.0 fbcdn2.com
 0.0.0.0 achcdn.com
+0.0.0.0 crisp.chat
 0.0.0.0 plus500.com
 0.0.0.0 otoadom.com
 0.0.0.0 2-wbetz.com
@@ -227,6 +228,7 @@
 0.0.0.0 ptichoolsougn.net
 0.0.0.0 uvodciakviysj.com
 0.0.0.0 naumeeshobouz.net
+0.0.0.0 client.crisp.chat
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
