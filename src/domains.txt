@@ -315,3 +315,5 @@ setapp.sjv.io
 uvodciakviysj.com
 naumeeshobouz.net
 kekreegaidsunge.net
+client.crisp.chat
+crisp.chat
