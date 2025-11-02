@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 321
+# Number of entries: 323
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -128,6 +128,7 @@
 0.0.0.0 wblokgurde.com
 0.0.0.0 luisterrijk.nl
 0.0.0.0 s.viivqjsj.com
+0.0.0.0 sourshaped.com
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -251,6 +252,7 @@
 0.0.0.0 ptifaustounsaz.com
 0.0.0.0 esportsinsider.com
 0.0.0.0 www.luisterrijk.nl
+0.0.0.0 flickering-buy.com
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net

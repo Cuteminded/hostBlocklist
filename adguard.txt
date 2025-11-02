@@ -128,6 +128,7 @@
 127.0.0.1 wblokgurde.com
 127.0.0.1 luisterrijk.nl
 127.0.0.1 s.viivqjsj.com
+127.0.0.1 sourshaped.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -251,6 +252,7 @@
 127.0.0.1 ptifaustounsaz.com
 127.0.0.1 esportsinsider.com
 127.0.0.1 www.luisterrijk.nl
+127.0.0.1 flickering-buy.com
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
