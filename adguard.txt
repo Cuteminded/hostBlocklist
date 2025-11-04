@@ -66,6 +66,7 @@
 127.0.0.1 ads.adk2.com
 127.0.0.1 vantara3.com
 127.0.0.1 gurucent.com
+127.0.0.1 weirdopt.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -253,6 +254,7 @@
 127.0.0.1 esportsinsider.com
 127.0.0.1 www.luisterrijk.nl
 127.0.0.1 flickering-buy.com
+127.0.0.1 preferencenail.com
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -282,6 +284,7 @@
 127.0.0.1 top-casino-online.nl
 127.0.0.1 adplexmedia.adk2.com
 127.0.0.1 adblockerfortify.pro
+127.0.0.1 torchfriendlypay.com
 127.0.0.1 www.bitcoin-kopen.com
 127.0.0.1 mysurferprotector.com
 127.0.0.1 runsamuraiapp.monster
@@ -297,6 +300,7 @@
 127.0.0.1 www.geniusdisplay.com
 127.0.0.1 click.clickblitzo.com
 127.0.0.1 cluster.aawspeedy.com
+127.0.0.1 skinnycrawlinglax.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com
@@ -326,5 +330,6 @@
 127.0.0.1 adblock-genius-download.com
 127.0.0.1 dakcc.check-tl-ver-198-d.buzz
 127.0.0.1 unfortunatelydroopinglying.com
+127.0.0.1 professionaltrafficmonitor.com
 127.0.0.1 besteonlinecasinosnederland.net
 127.0.0.1 watchdevelopedintenselythe-file.top
