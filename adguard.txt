@@ -12,6 +12,7 @@
 127.0.0.1 2dgg.com
 127.0.0.1 8s5s.com
 127.0.0.1 mz2v.com
+127.0.0.1 ey43.com
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
 127.0.0.1 obqj2.com
@@ -200,6 +201,7 @@
 127.0.0.1 eumobkepttor.com
 127.0.0.1 tradetracker.com
 127.0.0.1 northadblock.com
+127.0.0.1 lust-goddess.com
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
