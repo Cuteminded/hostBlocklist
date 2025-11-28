@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 331
+! Number of entries: 337
 !
 
 ||gate.io^
@@ -70,6 +70,7 @@
 ||vantara3.com^
 ||gurucent.com^
 ||weirdopt.com^
+||clckfltr.com^
 ||www.etoro.com^
 ||sven-play.com^
 ||royalchin.com^
@@ -134,6 +135,7 @@
 ||luisterrijk.nl^
 ||s.viivqjsj.com^
 ||sourshaped.com^
+||torvik59dz.com^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -199,6 +201,7 @@
 ||adultgames.space^
 ||eumobkepttor.com^
 ||tradetracker.com^
+||northadblock.com^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
@@ -235,6 +238,7 @@
 ||uvodciakviysj.com^
 ||naumeeshobouz.net^
 ||client.crisp.chat^
+||soundrushwave.net^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -259,6 +263,7 @@
 ||www.luisterrijk.nl^
 ||flickering-buy.com^
 ||preferencenail.com^
+||directbesparen.com^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
@@ -316,6 +321,7 @@
 ||mobile-protector24.com^
 ||processesdisplease.com^
 ||survey-for-sucsess.com^
+||www.directbesparen.com^
 ||bestsurferprotector.com^
 ||check-tl-ver-198-d.buzz^
 ||interruptchalkedlie.com^

@@ -68,6 +68,7 @@
 127.0.0.1 vantara3.com
 127.0.0.1 gurucent.com
 127.0.0.1 weirdopt.com
+127.0.0.1 clckfltr.com
 127.0.0.1 www.etoro.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
@@ -132,6 +133,7 @@
 127.0.0.1 luisterrijk.nl
 127.0.0.1 s.viivqjsj.com
 127.0.0.1 sourshaped.com
+127.0.0.1 torvik59dz.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -197,6 +199,7 @@
 127.0.0.1 adultgames.space
 127.0.0.1 eumobkepttor.com
 127.0.0.1 tradetracker.com
+127.0.0.1 northadblock.com
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -233,6 +236,7 @@
 127.0.0.1 uvodciakviysj.com
 127.0.0.1 naumeeshobouz.net
 127.0.0.1 client.crisp.chat
+127.0.0.1 soundrushwave.net
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -257,6 +261,7 @@
 127.0.0.1 www.luisterrijk.nl
 127.0.0.1 flickering-buy.com
 127.0.0.1 preferencenail.com
+127.0.0.1 directbesparen.com
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -314,6 +319,7 @@
 127.0.0.1 mobile-protector24.com
 127.0.0.1 processesdisplease.com
 127.0.0.1 survey-for-sucsess.com
+127.0.0.1 www.directbesparen.com
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com

@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 331
+# Number of entries: 337
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -68,6 +68,7 @@
 0.0.0.0 vantara3.com
 0.0.0.0 gurucent.com
 0.0.0.0 weirdopt.com
+0.0.0.0 clckfltr.com
 0.0.0.0 www.etoro.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
@@ -132,6 +133,7 @@
 0.0.0.0 luisterrijk.nl
 0.0.0.0 s.viivqjsj.com
 0.0.0.0 sourshaped.com
+0.0.0.0 torvik59dz.com
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -197,6 +199,7 @@
 0.0.0.0 adultgames.space
 0.0.0.0 eumobkepttor.com
 0.0.0.0 tradetracker.com
+0.0.0.0 northadblock.com
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
@@ -233,6 +236,7 @@
 0.0.0.0 uvodciakviysj.com
 0.0.0.0 naumeeshobouz.net
 0.0.0.0 client.crisp.chat
+0.0.0.0 soundrushwave.net
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -257,6 +261,7 @@
 0.0.0.0 www.luisterrijk.nl
 0.0.0.0 flickering-buy.com
 0.0.0.0 preferencenail.com
+0.0.0.0 directbesparen.com
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
@@ -314,6 +319,7 @@
 0.0.0.0 mobile-protector24.com
 0.0.0.0 processesdisplease.com
 0.0.0.0 survey-for-sucsess.com
+0.0.0.0 www.directbesparen.com
 0.0.0.0 bestsurferprotector.com
 0.0.0.0 check-tl-ver-198-d.buzz
 0.0.0.0 interruptchalkedlie.com
