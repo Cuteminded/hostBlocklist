@@ -11,6 +11,7 @@
 127.0.0.1 p2yn.com
 127.0.0.1 2dgg.com
 127.0.0.1 8s5s.com
+127.0.0.1 mz2v.com
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
 127.0.0.1 obqj2.com
@@ -97,6 +98,7 @@
 127.0.0.1 s0-greate.net
 127.0.0.1 ppebcuvty.com
 127.0.0.1 setapp.sjv.io
+127.0.0.1 zorftel4k.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -285,6 +287,7 @@
 127.0.0.1 adplexmedia.adk2.com
 127.0.0.1 adblockerfortify.pro
 127.0.0.1 torchfriendlypay.com
+127.0.0.1 expert-adblocker.app
 127.0.0.1 www.bitcoin-kopen.com
 127.0.0.1 mysurferprotector.com
 127.0.0.1 runsamuraiapp.monster

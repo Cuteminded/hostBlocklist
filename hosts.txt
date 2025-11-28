@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 328
+# Number of entries: 331
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -11,6 +11,7 @@
 0.0.0.0 p2yn.com
 0.0.0.0 2dgg.com
 0.0.0.0 8s5s.com
+0.0.0.0 mz2v.com
 0.0.0.0 etoro.com
 0.0.0.0 puarg.org
 0.0.0.0 obqj2.com
@@ -97,6 +98,7 @@
 0.0.0.0 s0-greate.net
 0.0.0.0 ppebcuvty.com
 0.0.0.0 setapp.sjv.io
+0.0.0.0 zorftel4k.com
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -285,6 +287,7 @@
 0.0.0.0 adplexmedia.adk2.com
 0.0.0.0 adblockerfortify.pro
 0.0.0.0 torchfriendlypay.com
+0.0.0.0 expert-adblocker.app
 0.0.0.0 www.bitcoin-kopen.com
 0.0.0.0 mysurferprotector.com
 0.0.0.0 runsamuraiapp.monster
