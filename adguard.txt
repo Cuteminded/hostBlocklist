@@ -350,6 +350,7 @@
 127.0.0.1 pubads.g.doubleclick.uk.net
 127.0.0.1 venturead.commaxonclick.com
 127.0.0.1 adblock-genius-download.com
+127.0.0.1 ultimatesurferprotector.com
 127.0.0.1 dakcc.check-tl-ver-198-d.buzz
 127.0.0.1 unfortunatelydroopinglying.com
 127.0.0.1 professionaltrafficmonitor.com
