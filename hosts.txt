@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 339
+# Number of entries: 348
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -19,6 +19,7 @@
 0.0.0.0 mrfoe.com
 0.0.0.0 ecovat.eu
 0.0.0.0 bvtpk.com
+0.0.0.0 likes.bet
 0.0.0.0 pemsrv.com
 0.0.0.0 upbury.com
 0.0.0.0 rtmark.net
@@ -135,6 +136,7 @@
 0.0.0.0 s.viivqjsj.com
 0.0.0.0 sourshaped.com
 0.0.0.0 torvik59dz.com
+0.0.0.0 r.linksprf.com
 0.0.0.0 app.plus500.com
 0.0.0.0 www.plus500.com
 0.0.0.0 bestmmogame.com
@@ -202,6 +204,8 @@
 0.0.0.0 tradetracker.com
 0.0.0.0 northadblock.com
 0.0.0.0 lust-goddess.com
+0.0.0.0 bqa.aitrack2.com
+0.0.0.0 ementseconom.org
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 www.aspeurope.com
 0.0.0.0 blazetransfer.cfd
@@ -295,6 +299,7 @@
 0.0.0.0 adblockerfortify.pro
 0.0.0.0 torchfriendlypay.com
 0.0.0.0 expert-adblocker.app
+0.0.0.0 beastlyendeavors.com
 0.0.0.0 www.bitcoin-kopen.com
 0.0.0.0 mysurferprotector.com
 0.0.0.0 runsamuraiapp.monster
@@ -311,6 +316,8 @@
 0.0.0.0 click.clickblitzo.com
 0.0.0.0 cluster.aawspeedy.com
 0.0.0.0 skinnycrawlinglax.com
+0.0.0.0 go.topnotchoffers.vip
+0.0.0.0 tk.topnotchoffers.vip
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com
@@ -322,6 +329,8 @@
 0.0.0.0 processesdisplease.com
 0.0.0.0 survey-for-sucsess.com
 0.0.0.0 www.directbesparen.com
+0.0.0.0 secteltechnologies.com
+0.0.0.0 oundhertobeconsist.org
 0.0.0.0 bestsurferprotector.com
 0.0.0.0 check-tl-ver-198-d.buzz
 0.0.0.0 interruptchalkedlie.com

@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 339
+! Number of entries: 348
 !
 
 ||gate.io^
@@ -21,6 +21,7 @@
 ||mrfoe.com^
 ||ecovat.eu^
 ||bvtpk.com^
+||likes.bet^
 ||pemsrv.com^
 ||upbury.com^
 ||rtmark.net^
@@ -137,6 +138,7 @@
 ||s.viivqjsj.com^
 ||sourshaped.com^
 ||torvik59dz.com^
+||r.linksprf.com^
 ||app.plus500.com^
 ||www.plus500.com^
 ||bestmmogame.com^
@@ -204,6 +206,8 @@
 ||tradetracker.com^
 ||northadblock.com^
 ||lust-goddess.com^
+||bqa.aitrack2.com^
+||ementseconom.org^
 ||bitcoin-kopen.com^
 ||www.aspeurope.com^
 ||blazetransfer.cfd^
@@ -297,6 +301,7 @@
 ||adblockerfortify.pro^
 ||torchfriendlypay.com^
 ||expert-adblocker.app^
+||beastlyendeavors.com^
 ||www.bitcoin-kopen.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
@@ -313,6 +318,8 @@
 ||click.clickblitzo.com^
 ||cluster.aawspeedy.com^
 ||skinnycrawlinglax.com^
+||go.topnotchoffers.vip^
+||tk.topnotchoffers.vip^
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||camp.purchase-shop.com^
@@ -324,6 +331,8 @@
 ||processesdisplease.com^
 ||survey-for-sucsess.com^
 ||www.directbesparen.com^
+||secteltechnologies.com^
+||oundhertobeconsist.org^
 ||bestsurferprotector.com^
 ||check-tl-ver-198-d.buzz^
 ||interruptchalkedlie.com^

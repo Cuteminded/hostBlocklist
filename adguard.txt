@@ -19,6 +19,7 @@
 127.0.0.1 mrfoe.com
 127.0.0.1 ecovat.eu
 127.0.0.1 bvtpk.com
+127.0.0.1 likes.bet
 127.0.0.1 pemsrv.com
 127.0.0.1 upbury.com
 127.0.0.1 rtmark.net
@@ -135,6 +136,7 @@
 127.0.0.1 s.viivqjsj.com
 127.0.0.1 sourshaped.com
 127.0.0.1 torvik59dz.com
+127.0.0.1 r.linksprf.com
 127.0.0.1 app.plus500.com
 127.0.0.1 www.plus500.com
 127.0.0.1 bestmmogame.com
@@ -202,6 +204,8 @@
 127.0.0.1 tradetracker.com
 127.0.0.1 northadblock.com
 127.0.0.1 lust-goddess.com
+127.0.0.1 bqa.aitrack2.com
+127.0.0.1 ementseconom.org
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 www.aspeurope.com
 127.0.0.1 blazetransfer.cfd
@@ -295,6 +299,7 @@
 127.0.0.1 adblockerfortify.pro
 127.0.0.1 torchfriendlypay.com
 127.0.0.1 expert-adblocker.app
+127.0.0.1 beastlyendeavors.com
 127.0.0.1 www.bitcoin-kopen.com
 127.0.0.1 mysurferprotector.com
 127.0.0.1 runsamuraiapp.monster
@@ -311,6 +316,8 @@
 127.0.0.1 click.clickblitzo.com
 127.0.0.1 cluster.aawspeedy.com
 127.0.0.1 skinnycrawlinglax.com
+127.0.0.1 go.topnotchoffers.vip
+127.0.0.1 tk.topnotchoffers.vip
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com
@@ -322,6 +329,8 @@
 127.0.0.1 processesdisplease.com
 127.0.0.1 survey-for-sucsess.com
 127.0.0.1 www.directbesparen.com
+127.0.0.1 secteltechnologies.com
+127.0.0.1 oundhertobeconsist.org
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com
