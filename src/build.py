@@ -18,7 +18,7 @@ def writeDomains():
             file.write(f"{line}\n")
 
 def addPrefix():
-    for domain in domains:
+    for domain in domains.copy():
         domains.append("www.{0}".format(domain))
     domains.sort(key=len)
 
