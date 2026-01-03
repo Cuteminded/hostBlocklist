@@ -16,6 +16,10 @@ def writeDomains():
     with open('domains.txt', 'w') as file:
         for line in domains:
             file.write(f"{line}\n")
+
+def addPrefix():
+    for domain in domains:
+        domains.append("www.{0}".format(domain))
     domains.sort(key=len)
 
 def readme():
@@ -54,8 +58,6 @@ def hosts():
     lines.append("#")
     for domain in domains:
         lines.append("0.0.0.0 {0}".format(domain))
-    for domain in domains:
-        lines.append("0.0.0.0 www.{0}".format(domain))
     with open("../hosts.txt", "w") as file:
         for line in lines:
             file.write(f"{line}\n")
@@ -71,8 +73,6 @@ def adguard():
     lines.append("")
     for domain in domains:
         lines.append("127.0.0.1 {0}".format(domain))
-    for domain in domains:
-        lines.append("127.0.0.1 www.{0}".format(domain))
     with open("../adguard.txt", "w") as file:
         for line in lines:
             file.write(f"{line}\n")
@@ -90,8 +90,6 @@ def adblock():
     lines.append("")
     for domain in domains:
         lines.append("||{0}^".format(domain))
-    for domain in domains:
-        lines.append("||www.{0}^".format(domain))
     with open("../adblock.txt", "w") as file:
         for line in lines:
             file.write(f"{line}\n")
@@ -99,6 +97,7 @@ def adblock():
 def main():
     readDomains()
     writeDomains()
+    addPrefix()
     hosts()
     readme()
     adguard()
