@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 678
+! Number of entries: 688
 !
 
 ||gate.io^
@@ -15,6 +15,7 @@
 ||8s5s.com^
 ||mz2v.com^
 ||ey43.com^
+||m1rs.com^
 ||etoro.com^
 ||puarg.org^
 ||obqj2.com^
@@ -82,6 +83,7 @@
 ||www.8s5s.com^
 ||www.mz2v.com^
 ||www.ey43.com^
+||www.m1rs.com^
 ||sven-play.com^
 ||royalchin.com^
 ||aspeurope.com^
@@ -242,6 +244,7 @@
 ||ementseconom.org^
 ||ghabovethec.info^
 ||titanpcgames.com^
+||simaonegoalz.com^
 ||www.zaltaumi.net^
 ||www.potsaglu.net^
 ||www.go.etoro.com^
@@ -309,6 +312,8 @@
 ||client.crisp.chat^
 ||soundrushwave.net^
 ||ngseriegentsf.org^
+||oansalsoaboaw.com^
+||techpointspot.com^
 ||www.sven-play.com^
 ||www.royalchin.com^
 ||www.aspeurope.com^
@@ -497,6 +502,7 @@
 ||www.ementseconom.org^
 ||www.ghabovethec.info^
 ||www.titanpcgames.com^
+||www.simaonegoalz.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
 ||advancedadblocker.pro^
@@ -548,6 +554,8 @@
 ||www.client.crisp.chat^
 ||www.soundrushwave.net^
 ||www.ngseriegentsf.org^
+||www.oansalsoaboaw.com^
+||www.techpointspot.com^
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||camp.purchase-shop.com^
@@ -560,6 +568,7 @@
 ||survey-for-sucsess.com^
 ||secteltechnologies.com^
 ||oundhertobeconsist.org^
+||blog.techpointspot.com^
 ||www.goobefirumaupt.net^
 ||www.eliteadblocker.net^
 ||www.ad-block-offer.com^
@@ -655,6 +664,7 @@
 ||www.survey-for-sucsess.com^
 ||www.secteltechnologies.com^
 ||www.oundhertobeconsist.org^
+||www.blog.techpointspot.com^
 ||pubads.g.doubleclick.uk.net^
 ||venturead.commaxonclick.com^
 ||adblock-genius-download.com^

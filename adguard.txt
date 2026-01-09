@@ -13,6 +13,7 @@
 127.0.0.1 8s5s.com
 127.0.0.1 mz2v.com
 127.0.0.1 ey43.com
+127.0.0.1 m1rs.com
 127.0.0.1 etoro.com
 127.0.0.1 puarg.org
 127.0.0.1 obqj2.com
@@ -80,6 +81,7 @@
 127.0.0.1 www.8s5s.com
 127.0.0.1 www.mz2v.com
 127.0.0.1 www.ey43.com
+127.0.0.1 www.m1rs.com
 127.0.0.1 sven-play.com
 127.0.0.1 royalchin.com
 127.0.0.1 aspeurope.com
@@ -240,6 +242,7 @@
 127.0.0.1 ementseconom.org
 127.0.0.1 ghabovethec.info
 127.0.0.1 titanpcgames.com
+127.0.0.1 simaonegoalz.com
 127.0.0.1 www.zaltaumi.net
 127.0.0.1 www.potsaglu.net
 127.0.0.1 www.go.etoro.com
@@ -307,6 +310,8 @@
 127.0.0.1 client.crisp.chat
 127.0.0.1 soundrushwave.net
 127.0.0.1 ngseriegentsf.org
+127.0.0.1 oansalsoaboaw.com
+127.0.0.1 techpointspot.com
 127.0.0.1 www.sven-play.com
 127.0.0.1 www.royalchin.com
 127.0.0.1 www.aspeurope.com
@@ -495,6 +500,7 @@
 127.0.0.1 www.ementseconom.org
 127.0.0.1 www.ghabovethec.info
 127.0.0.1 www.titanpcgames.com
+127.0.0.1 www.simaonegoalz.com
 127.0.0.1 mysurferprotector.com
 127.0.0.1 runsamuraiapp.monster
 127.0.0.1 advancedadblocker.pro
@@ -546,6 +552,8 @@
 127.0.0.1 www.client.crisp.chat
 127.0.0.1 www.soundrushwave.net
 127.0.0.1 www.ngseriegentsf.org
+127.0.0.1 www.oansalsoaboaw.com
+127.0.0.1 www.techpointspot.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com
@@ -558,6 +566,7 @@
 127.0.0.1 survey-for-sucsess.com
 127.0.0.1 secteltechnologies.com
 127.0.0.1 oundhertobeconsist.org
+127.0.0.1 blog.techpointspot.com
 127.0.0.1 www.goobefirumaupt.net
 127.0.0.1 www.eliteadblocker.net
 127.0.0.1 www.ad-block-offer.com
@@ -653,6 +662,7 @@
 127.0.0.1 www.survey-for-sucsess.com
 127.0.0.1 www.secteltechnologies.com
 127.0.0.1 www.oundhertobeconsist.org
+127.0.0.1 www.blog.techpointspot.com
 127.0.0.1 pubads.g.doubleclick.uk.net
 127.0.0.1 venturead.commaxonclick.com
 127.0.0.1 adblock-genius-download.com

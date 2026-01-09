@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 678
+# Number of entries: 688
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -13,6 +13,7 @@
 0.0.0.0 8s5s.com
 0.0.0.0 mz2v.com
 0.0.0.0 ey43.com
+0.0.0.0 m1rs.com
 0.0.0.0 etoro.com
 0.0.0.0 puarg.org
 0.0.0.0 obqj2.com
@@ -80,6 +81,7 @@
 0.0.0.0 www.8s5s.com
 0.0.0.0 www.mz2v.com
 0.0.0.0 www.ey43.com
+0.0.0.0 www.m1rs.com
 0.0.0.0 sven-play.com
 0.0.0.0 royalchin.com
 0.0.0.0 aspeurope.com
@@ -240,6 +242,7 @@
 0.0.0.0 ementseconom.org
 0.0.0.0 ghabovethec.info
 0.0.0.0 titanpcgames.com
+0.0.0.0 simaonegoalz.com
 0.0.0.0 www.zaltaumi.net
 0.0.0.0 www.potsaglu.net
 0.0.0.0 www.go.etoro.com
@@ -307,6 +310,8 @@
 0.0.0.0 client.crisp.chat
 0.0.0.0 soundrushwave.net
 0.0.0.0 ngseriegentsf.org
+0.0.0.0 oansalsoaboaw.com
+0.0.0.0 techpointspot.com
 0.0.0.0 www.sven-play.com
 0.0.0.0 www.royalchin.com
 0.0.0.0 www.aspeurope.com
@@ -495,6 +500,7 @@
 0.0.0.0 www.ementseconom.org
 0.0.0.0 www.ghabovethec.info
 0.0.0.0 www.titanpcgames.com
+0.0.0.0 www.simaonegoalz.com
 0.0.0.0 mysurferprotector.com
 0.0.0.0 runsamuraiapp.monster
 0.0.0.0 advancedadblocker.pro
@@ -546,6 +552,8 @@
 0.0.0.0 www.client.crisp.chat
 0.0.0.0 www.soundrushwave.net
 0.0.0.0 www.ngseriegentsf.org
+0.0.0.0 www.oansalsoaboaw.com
+0.0.0.0 www.techpointspot.com
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com
@@ -558,6 +566,7 @@
 0.0.0.0 survey-for-sucsess.com
 0.0.0.0 secteltechnologies.com
 0.0.0.0 oundhertobeconsist.org
+0.0.0.0 blog.techpointspot.com
 0.0.0.0 www.goobefirumaupt.net
 0.0.0.0 www.eliteadblocker.net
 0.0.0.0 www.ad-block-offer.com
@@ -653,6 +662,7 @@
 0.0.0.0 www.survey-for-sucsess.com
 0.0.0.0 www.secteltechnologies.com
 0.0.0.0 www.oundhertobeconsist.org
+0.0.0.0 www.blog.techpointspot.com
 0.0.0.0 pubads.g.doubleclick.uk.net
 0.0.0.0 venturead.commaxonclick.com
 0.0.0.0 adblock-genius-download.com
