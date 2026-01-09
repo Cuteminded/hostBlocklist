@@ -20,6 +20,7 @@
 127.0.0.1 ecovat.eu
 127.0.0.1 bvtpk.com
 127.0.0.1 likes.bet
+127.0.0.1 tmll7.com
 127.0.0.1 pemsrv.com
 127.0.0.1 upbury.com
 127.0.0.1 rtmark.net
@@ -39,6 +40,7 @@
 127.0.0.1 bomhart.ink
 127.0.0.1 bitvavo.com
 127.0.0.1 kokevoc.com
+127.0.0.1 playerhq.co
 127.0.0.1 www.gate.io
 127.0.0.1 www.href.li
 127.0.0.1 www.wecv.io
@@ -107,6 +109,7 @@
 127.0.0.1 ppebcuvty.com
 127.0.0.1 setapp.sjv.io
 127.0.0.1 zorftel4k.com
+127.0.0.1 hero-wars.com
 127.0.0.1 www.etoro.com
 127.0.0.1 www.puarg.org
 127.0.0.1 www.obqj2.com
@@ -114,6 +117,7 @@
 127.0.0.1 www.ecovat.eu
 127.0.0.1 www.bvtpk.com
 127.0.0.1 www.likes.bet
+127.0.0.1 www.tmll7.com
 127.0.0.1 casinoscout.nl
 127.0.0.1 resertol.co.in
 127.0.0.1 0-betsixty.com
@@ -148,6 +152,7 @@
 127.0.0.1 sourshaped.com
 127.0.0.1 torvik59dz.com
 127.0.0.1 r.linksprf.com
+127.0.0.1 runoperagx.com
 127.0.0.1 www.pemsrv.com
 127.0.0.1 www.upbury.com
 127.0.0.1 www.rtmark.net
@@ -191,6 +196,7 @@
 127.0.0.1 coinspeaker.com
 127.0.0.1 49nyxbets13.com
 127.0.0.1 clickblitzo.com
+127.0.0.1 luckfusion.info
 127.0.0.1 www.plus500.com
 127.0.0.1 www.otoadom.com
 127.0.0.1 www.2-wbetz.com
@@ -201,6 +207,7 @@
 127.0.0.1 www.bomhart.ink
 127.0.0.1 www.bitvavo.com
 127.0.0.1 www.kokevoc.com
+127.0.0.1 www.playerhq.co
 127.0.0.1 adblockology.net
 127.0.0.1 animeplaynow.com
 127.0.0.1 doubleclick.host
@@ -232,6 +239,7 @@
 127.0.0.1 bqa.aitrack2.com
 127.0.0.1 ementseconom.org
 127.0.0.1 ghabovethec.info
+127.0.0.1 titanpcgames.com
 127.0.0.1 www.zaltaumi.net
 127.0.0.1 www.potsaglu.net
 127.0.0.1 www.go.etoro.com
@@ -298,6 +306,7 @@
 127.0.0.1 naumeeshobouz.net
 127.0.0.1 client.crisp.chat
 127.0.0.1 soundrushwave.net
+127.0.0.1 ngseriegentsf.org
 127.0.0.1 www.sven-play.com
 127.0.0.1 www.royalchin.com
 127.0.0.1 www.aspeurope.com
@@ -327,6 +336,7 @@
 127.0.0.1 www.ppebcuvty.com
 127.0.0.1 www.setapp.sjv.io
 127.0.0.1 www.zorftel4k.com
+127.0.0.1 www.hero-wars.com
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -385,6 +395,7 @@
 127.0.0.1 www.sourshaped.com
 127.0.0.1 www.torvik59dz.com
 127.0.0.1 www.r.linksprf.com
+127.0.0.1 www.runoperagx.com
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -443,6 +454,7 @@
 127.0.0.1 www.coinspeaker.com
 127.0.0.1 www.49nyxbets13.com
 127.0.0.1 www.clickblitzo.com
+127.0.0.1 www.luckfusion.info
 127.0.0.1 topsolutions.rdtk.io
 127.0.0.1 top-casino-online.nl
 127.0.0.1 adplexmedia.adk2.com
@@ -482,6 +494,7 @@
 127.0.0.1 www.bqa.aitrack2.com
 127.0.0.1 www.ementseconom.org
 127.0.0.1 www.ghabovethec.info
+127.0.0.1 www.titanpcgames.com
 127.0.0.1 mysurferprotector.com
 127.0.0.1 runsamuraiapp.monster
 127.0.0.1 advancedadblocker.pro
@@ -532,6 +545,7 @@
 127.0.0.1 www.naumeeshobouz.net
 127.0.0.1 www.client.crisp.chat
 127.0.0.1 www.soundrushwave.net
+127.0.0.1 www.ngseriegentsf.org
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com

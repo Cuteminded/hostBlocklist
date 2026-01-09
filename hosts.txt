@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 664
+# Number of entries: 678
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -20,6 +20,7 @@
 0.0.0.0 ecovat.eu
 0.0.0.0 bvtpk.com
 0.0.0.0 likes.bet
+0.0.0.0 tmll7.com
 0.0.0.0 pemsrv.com
 0.0.0.0 upbury.com
 0.0.0.0 rtmark.net
@@ -39,6 +40,7 @@
 0.0.0.0 bomhart.ink
 0.0.0.0 bitvavo.com
 0.0.0.0 kokevoc.com
+0.0.0.0 playerhq.co
 0.0.0.0 www.gate.io
 0.0.0.0 www.href.li
 0.0.0.0 www.wecv.io
@@ -107,6 +109,7 @@
 0.0.0.0 ppebcuvty.com
 0.0.0.0 setapp.sjv.io
 0.0.0.0 zorftel4k.com
+0.0.0.0 hero-wars.com
 0.0.0.0 www.etoro.com
 0.0.0.0 www.puarg.org
 0.0.0.0 www.obqj2.com
@@ -114,6 +117,7 @@
 0.0.0.0 www.ecovat.eu
 0.0.0.0 www.bvtpk.com
 0.0.0.0 www.likes.bet
+0.0.0.0 www.tmll7.com
 0.0.0.0 casinoscout.nl
 0.0.0.0 resertol.co.in
 0.0.0.0 0-betsixty.com
@@ -148,6 +152,7 @@
 0.0.0.0 sourshaped.com
 0.0.0.0 torvik59dz.com
 0.0.0.0 r.linksprf.com
+0.0.0.0 runoperagx.com
 0.0.0.0 www.pemsrv.com
 0.0.0.0 www.upbury.com
 0.0.0.0 www.rtmark.net
@@ -191,6 +196,7 @@
 0.0.0.0 coinspeaker.com
 0.0.0.0 49nyxbets13.com
 0.0.0.0 clickblitzo.com
+0.0.0.0 luckfusion.info
 0.0.0.0 www.plus500.com
 0.0.0.0 www.otoadom.com
 0.0.0.0 www.2-wbetz.com
@@ -201,6 +207,7 @@
 0.0.0.0 www.bomhart.ink
 0.0.0.0 www.bitvavo.com
 0.0.0.0 www.kokevoc.com
+0.0.0.0 www.playerhq.co
 0.0.0.0 adblockology.net
 0.0.0.0 animeplaynow.com
 0.0.0.0 doubleclick.host
@@ -232,6 +239,7 @@
 0.0.0.0 bqa.aitrack2.com
 0.0.0.0 ementseconom.org
 0.0.0.0 ghabovethec.info
+0.0.0.0 titanpcgames.com
 0.0.0.0 www.zaltaumi.net
 0.0.0.0 www.potsaglu.net
 0.0.0.0 www.go.etoro.com
@@ -298,6 +306,7 @@
 0.0.0.0 naumeeshobouz.net
 0.0.0.0 client.crisp.chat
 0.0.0.0 soundrushwave.net
+0.0.0.0 ngseriegentsf.org
 0.0.0.0 www.sven-play.com
 0.0.0.0 www.royalchin.com
 0.0.0.0 www.aspeurope.com
@@ -327,6 +336,7 @@
 0.0.0.0 www.ppebcuvty.com
 0.0.0.0 www.setapp.sjv.io
 0.0.0.0 www.zorftel4k.com
+0.0.0.0 www.hero-wars.com
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -385,6 +395,7 @@
 0.0.0.0 www.sourshaped.com
 0.0.0.0 www.torvik59dz.com
 0.0.0.0 www.r.linksprf.com
+0.0.0.0 www.runoperagx.com
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
@@ -443,6 +454,7 @@
 0.0.0.0 www.coinspeaker.com
 0.0.0.0 www.49nyxbets13.com
 0.0.0.0 www.clickblitzo.com
+0.0.0.0 www.luckfusion.info
 0.0.0.0 topsolutions.rdtk.io
 0.0.0.0 top-casino-online.nl
 0.0.0.0 adplexmedia.adk2.com
@@ -482,6 +494,7 @@
 0.0.0.0 www.bqa.aitrack2.com
 0.0.0.0 www.ementseconom.org
 0.0.0.0 www.ghabovethec.info
+0.0.0.0 www.titanpcgames.com
 0.0.0.0 mysurferprotector.com
 0.0.0.0 runsamuraiapp.monster
 0.0.0.0 advancedadblocker.pro
@@ -532,6 +545,7 @@
 0.0.0.0 www.naumeeshobouz.net
 0.0.0.0 www.client.crisp.chat
 0.0.0.0 www.soundrushwave.net
+0.0.0.0 www.ngseriegentsf.org
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com

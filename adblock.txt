@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 664
+! Number of entries: 678
 !
 
 ||gate.io^
@@ -22,6 +22,7 @@
 ||ecovat.eu^
 ||bvtpk.com^
 ||likes.bet^
+||tmll7.com^
 ||pemsrv.com^
 ||upbury.com^
 ||rtmark.net^
@@ -41,6 +42,7 @@
 ||bomhart.ink^
 ||bitvavo.com^
 ||kokevoc.com^
+||playerhq.co^
 ||www.gate.io^
 ||www.href.li^
 ||www.wecv.io^
@@ -109,6 +111,7 @@
 ||ppebcuvty.com^
 ||setapp.sjv.io^
 ||zorftel4k.com^
+||hero-wars.com^
 ||www.etoro.com^
 ||www.puarg.org^
 ||www.obqj2.com^
@@ -116,6 +119,7 @@
 ||www.ecovat.eu^
 ||www.bvtpk.com^
 ||www.likes.bet^
+||www.tmll7.com^
 ||casinoscout.nl^
 ||resertol.co.in^
 ||0-betsixty.com^
@@ -150,6 +154,7 @@
 ||sourshaped.com^
 ||torvik59dz.com^
 ||r.linksprf.com^
+||runoperagx.com^
 ||www.pemsrv.com^
 ||www.upbury.com^
 ||www.rtmark.net^
@@ -193,6 +198,7 @@
 ||coinspeaker.com^
 ||49nyxbets13.com^
 ||clickblitzo.com^
+||luckfusion.info^
 ||www.plus500.com^
 ||www.otoadom.com^
 ||www.2-wbetz.com^
@@ -203,6 +209,7 @@
 ||www.bomhart.ink^
 ||www.bitvavo.com^
 ||www.kokevoc.com^
+||www.playerhq.co^
 ||adblockology.net^
 ||animeplaynow.com^
 ||doubleclick.host^
@@ -234,6 +241,7 @@
 ||bqa.aitrack2.com^
 ||ementseconom.org^
 ||ghabovethec.info^
+||titanpcgames.com^
 ||www.zaltaumi.net^
 ||www.potsaglu.net^
 ||www.go.etoro.com^
@@ -300,6 +308,7 @@
 ||naumeeshobouz.net^
 ||client.crisp.chat^
 ||soundrushwave.net^
+||ngseriegentsf.org^
 ||www.sven-play.com^
 ||www.royalchin.com^
 ||www.aspeurope.com^
@@ -329,6 +338,7 @@
 ||www.ppebcuvty.com^
 ||www.setapp.sjv.io^
 ||www.zorftel4k.com^
+||www.hero-wars.com^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -387,6 +397,7 @@
 ||www.sourshaped.com^
 ||www.torvik59dz.com^
 ||www.r.linksprf.com^
+||www.runoperagx.com^
 ||popupblockernow.com^
 ||blackmailarmory.com^
 ||stoagouruzostee.net^
@@ -445,6 +456,7 @@
 ||www.coinspeaker.com^
 ||www.49nyxbets13.com^
 ||www.clickblitzo.com^
+||www.luckfusion.info^
 ||topsolutions.rdtk.io^
 ||top-casino-online.nl^
 ||adplexmedia.adk2.com^
@@ -484,6 +496,7 @@
 ||www.bqa.aitrack2.com^
 ||www.ementseconom.org^
 ||www.ghabovethec.info^
+||www.titanpcgames.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
 ||advancedadblocker.pro^
@@ -534,6 +547,7 @@
 ||www.naumeeshobouz.net^
 ||www.client.crisp.chat^
 ||www.soundrushwave.net^
+||www.ngseriegentsf.org^
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||camp.purchase-shop.com^
