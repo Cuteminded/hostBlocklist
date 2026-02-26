@@ -17,11 +17,6 @@ def writeDomains():
         for line in domains:
             file.write(f"{line}\n")
 
-def addPrefix():
-    for domain in domains.copy():
-        domains.append("www.{0}".format(domain))
-    domains.sort(key=len)
-
 def readme():
     lines = []
     lines.append("# {0}".format(title))
@@ -47,37 +42,7 @@ def readme():
         for line in lines:
             file.write(f"{line}\n")
 
-def hosts():
-    lines = []
-    lines.append("# Title: {0}".format(title))
-    lines.append("# Expires: 1 day")
-    lines.append("# Description: {0}".format(description))
-    lines.append("# Homepage: {0}".format(homepage))
-    lines.append("# Syntax: Hosts (including possible subdomains)")
-    lines.append("# Number of entries: {0}".format(len(domains)))
-    lines.append("#")
-    for domain in domains:
-        lines.append("0.0.0.0 {0}".format(domain))
-    with open("../hosts.txt", "w") as file:
-        for line in lines:
-            file.write(f"{line}\n")
-
-def adguard():
-    lines = []
-    lines.append("!")
-    lines.append("! Title: {0}".format(title))
-    lines.append("! Expires: 1 day")
-    lines.append("! Description: {0}".format(description))
-    lines.append("! Homepage: {0}".format(homepage))
-    lines.append("!")
-    lines.append("")
-    for domain in domains:
-        lines.append("127.0.0.1 {0}".format(domain))
-    with open("../adguard.txt", "w") as file:
-        for line in lines:
-            file.write(f"{line}\n")
-
-def adblock():
+def build():
     lines = []
     lines.append("[Adblock Plus]")
     lines.append("! Title: {0}".format(title))
@@ -93,13 +58,13 @@ def adblock():
     with open("../adblock.txt", "w") as file:
         for line in lines:
             file.write(f"{line}\n")
+    with open("../adguard.txt", "w") as file:
+        for line in lines:
+            file.write(f"{line}\n")
 
 def main():
     readDomains()
     writeDomains()
-    addPrefix()
-    hosts()
     readme()
-    adguard()
-    adblock()
+    build()
 main()
