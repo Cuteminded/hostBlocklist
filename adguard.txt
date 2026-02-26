@@ -79,6 +79,7 @@
 127.0.0.1 clckfltr.com
 127.0.0.1 aitrack2.com
 127.0.0.1 aitrack3.com
+127.0.0.1 romplasa.com
 127.0.0.1 www.p2yn.com
 127.0.0.1 www.2dgg.com
 127.0.0.1 www.8s5s.com
@@ -281,6 +282,7 @@
 127.0.0.1 www.clckfltr.com
 127.0.0.1 www.aitrack2.com
 127.0.0.1 www.aitrack3.com
+127.0.0.1 www.romplasa.com
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 blazetransfer.cfd
 127.0.0.1 kpgbxnpwrsnsi.com
