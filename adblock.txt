@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 688
+! Number of entries: 702
 !
 
 ||gate.io^
@@ -16,6 +16,7 @@
 ||mz2v.com^
 ||ey43.com^
 ||m1rs.com^
+||koko.bet^
 ||etoro.com^
 ||puarg.org^
 ||obqj2.com^
@@ -78,12 +79,15 @@
 ||gurucent.com^
 ||weirdopt.com^
 ||clckfltr.com^
+||aitrack2.com^
+||aitrack3.com^
 ||www.p2yn.com^
 ||www.2dgg.com^
 ||www.8s5s.com^
 ||www.mz2v.com^
 ||www.ey43.com^
 ||www.m1rs.com^
+||www.koko.bet^
 ||sven-play.com^
 ||royalchin.com^
 ||aspeurope.com^
@@ -245,6 +249,7 @@
 ||ghabovethec.info^
 ||titanpcgames.com^
 ||simaonegoalz.com^
+||kokotracking.com^
 ||www.zaltaumi.net^
 ||www.potsaglu.net^
 ||www.go.etoro.com^
@@ -276,6 +281,8 @@
 ||www.gurucent.com^
 ||www.weirdopt.com^
 ||www.clckfltr.com^
+||www.aitrack2.com^
+||www.aitrack3.com^
 ||bitcoin-kopen.com^
 ||blazetransfer.cfd^
 ||kpgbxnpwrsnsi.com^
@@ -314,6 +321,8 @@
 ||ngseriegentsf.org^
 ||oansalsoaboaw.com^
 ||techpointspot.com^
+||b0lz.aitrack2.com^
+||b0lz.aitrack3.com^
 ||www.sven-play.com^
 ||www.royalchin.com^
 ||www.aspeurope.com^
@@ -503,6 +512,7 @@
 ||www.ghabovethec.info^
 ||www.titanpcgames.com^
 ||www.simaonegoalz.com^
+||www.kokotracking.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
 ||advancedadblocker.pro^
@@ -556,6 +566,8 @@
 ||www.ngseriegentsf.org^
 ||www.oansalsoaboaw.com^
 ||www.techpointspot.com^
+||www.b0lz.aitrack2.com^
+||www.b0lz.aitrack3.com^
 ||thesurferprotector.com^
 ||handbagwishesliver.com^
 ||camp.purchase-shop.com^
@@ -569,6 +581,7 @@
 ||secteltechnologies.com^
 ||oundhertobeconsist.org^
 ||blog.techpointspot.com^
+||shopinternetmodern.com^
 ||www.goobefirumaupt.net^
 ||www.eliteadblocker.net^
 ||www.ad-block-offer.com^
@@ -665,6 +678,7 @@
 ||www.secteltechnologies.com^
 ||www.oundhertobeconsist.org^
 ||www.blog.techpointspot.com^
+||www.shopinternetmodern.com^
 ||pubads.g.doubleclick.uk.net^
 ||venturead.commaxonclick.com^
 ||adblock-genius-download.com^
