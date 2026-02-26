@@ -77,9 +77,12 @@
 127.0.0.1 gurucent.com
 127.0.0.1 weirdopt.com
 127.0.0.1 clckfltr.com
+127.0.0.1 aitrack1.com
 127.0.0.1 aitrack2.com
 127.0.0.1 aitrack3.com
 127.0.0.1 romplasa.com
+127.0.0.1 aitrack4.com
+127.0.0.1 aitrack5.com
 127.0.0.1 www.p2yn.com
 127.0.0.1 www.2dgg.com
 127.0.0.1 www.8s5s.com
@@ -117,6 +120,7 @@
 127.0.0.1 setapp.sjv.io
 127.0.0.1 zorftel4k.com
 127.0.0.1 hero-wars.com
+127.0.0.1 vibrelabs.com
 127.0.0.1 www.etoro.com
 127.0.0.1 www.puarg.org
 127.0.0.1 www.obqj2.com
@@ -160,6 +164,7 @@
 127.0.0.1 torvik59dz.com
 127.0.0.1 r.linksprf.com
 127.0.0.1 runoperagx.com
+127.0.0.1 loopsdayes.com
 127.0.0.1 www.pemsrv.com
 127.0.0.1 www.upbury.com
 127.0.0.1 www.rtmark.net
@@ -280,9 +285,12 @@
 127.0.0.1 www.gurucent.com
 127.0.0.1 www.weirdopt.com
 127.0.0.1 www.clckfltr.com
+127.0.0.1 www.aitrack1.com
 127.0.0.1 www.aitrack2.com
 127.0.0.1 www.aitrack3.com
 127.0.0.1 www.romplasa.com
+127.0.0.1 www.aitrack4.com
+127.0.0.1 www.aitrack5.com
 127.0.0.1 bitcoin-kopen.com
 127.0.0.1 blazetransfer.cfd
 127.0.0.1 kpgbxnpwrsnsi.com
@@ -321,8 +329,6 @@
 127.0.0.1 ngseriegentsf.org
 127.0.0.1 oansalsoaboaw.com
 127.0.0.1 techpointspot.com
-127.0.0.1 b0lz.aitrack2.com
-127.0.0.1 b0lz.aitrack3.com
 127.0.0.1 www.sven-play.com
 127.0.0.1 www.royalchin.com
 127.0.0.1 www.aspeurope.com
@@ -353,6 +359,7 @@
 127.0.0.1 www.setapp.sjv.io
 127.0.0.1 www.zorftel4k.com
 127.0.0.1 www.hero-wars.com
+127.0.0.1 www.vibrelabs.com
 127.0.0.1 goobefirumaupt.net
 127.0.0.1 eliteadblocker.net
 127.0.0.1 ad-block-offer.com
@@ -377,6 +384,7 @@
 127.0.0.1 preferencenail.com
 127.0.0.1 directbesparen.com
 127.0.0.1 togetherefwuko.org
+127.0.0.1 hollingerphoto.com
 127.0.0.1 www.casinoscout.nl
 127.0.0.1 www.resertol.co.in
 127.0.0.1 www.0-betsixty.com
@@ -412,6 +420,7 @@
 127.0.0.1 www.torvik59dz.com
 127.0.0.1 www.r.linksprf.com
 127.0.0.1 www.runoperagx.com
+127.0.0.1 www.loopsdayes.com
 127.0.0.1 popupblockernow.com
 127.0.0.1 blackmailarmory.com
 127.0.0.1 stoagouruzostee.net
@@ -436,6 +445,7 @@
 127.0.0.1 euphoric-square.com
 127.0.0.1 kekreegaidsunge.net
 127.0.0.1 ow.winonascards.com
+127.0.0.1 ubiquittyonline.com
 127.0.0.1 www.app.plus500.com
 127.0.0.1 www.bestmmogame.com
 127.0.0.1 www.freefromads.net
@@ -566,8 +576,6 @@
 127.0.0.1 www.ngseriegentsf.org
 127.0.0.1 www.oansalsoaboaw.com
 127.0.0.1 www.techpointspot.com
-127.0.0.1 www.b0lz.aitrack2.com
-127.0.0.1 www.b0lz.aitrack3.com
 127.0.0.1 thesurferprotector.com
 127.0.0.1 handbagwishesliver.com
 127.0.0.1 camp.purchase-shop.com
@@ -606,6 +614,7 @@
 127.0.0.1 www.preferencenail.com
 127.0.0.1 www.directbesparen.com
 127.0.0.1 www.togetherefwuko.org
+127.0.0.1 www.hollingerphoto.com
 127.0.0.1 bestsurferprotector.com
 127.0.0.1 check-tl-ver-198-d.buzz
 127.0.0.1 interruptchalkedlie.com
@@ -633,6 +642,7 @@
 127.0.0.1 www.euphoric-square.com
 127.0.0.1 www.kekreegaidsunge.net
 127.0.0.1 www.ow.winonascards.com
+127.0.0.1 www.ubiquittyonline.com
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 ucdnondemandptimecdn.com
 127.0.0.1 privacy-guard-mobile.com

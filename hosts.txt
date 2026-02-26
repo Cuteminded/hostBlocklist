@@ -3,7 +3,7 @@
 # Description: A list of annoying spam domains to help users block unwanted content.
 # Homepage: https://github.com/cuteminded/hostBlocklist
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 704
+# Number of entries: 714
 #
 0.0.0.0 gate.io
 0.0.0.0 href.li
@@ -77,9 +77,12 @@
 0.0.0.0 gurucent.com
 0.0.0.0 weirdopt.com
 0.0.0.0 clckfltr.com
+0.0.0.0 aitrack1.com
 0.0.0.0 aitrack2.com
 0.0.0.0 aitrack3.com
 0.0.0.0 romplasa.com
+0.0.0.0 aitrack4.com
+0.0.0.0 aitrack5.com
 0.0.0.0 www.p2yn.com
 0.0.0.0 www.2dgg.com
 0.0.0.0 www.8s5s.com
@@ -117,6 +120,7 @@
 0.0.0.0 setapp.sjv.io
 0.0.0.0 zorftel4k.com
 0.0.0.0 hero-wars.com
+0.0.0.0 vibrelabs.com
 0.0.0.0 www.etoro.com
 0.0.0.0 www.puarg.org
 0.0.0.0 www.obqj2.com
@@ -160,6 +164,7 @@
 0.0.0.0 torvik59dz.com
 0.0.0.0 r.linksprf.com
 0.0.0.0 runoperagx.com
+0.0.0.0 loopsdayes.com
 0.0.0.0 www.pemsrv.com
 0.0.0.0 www.upbury.com
 0.0.0.0 www.rtmark.net
@@ -280,9 +285,12 @@
 0.0.0.0 www.gurucent.com
 0.0.0.0 www.weirdopt.com
 0.0.0.0 www.clckfltr.com
+0.0.0.0 www.aitrack1.com
 0.0.0.0 www.aitrack2.com
 0.0.0.0 www.aitrack3.com
 0.0.0.0 www.romplasa.com
+0.0.0.0 www.aitrack4.com
+0.0.0.0 www.aitrack5.com
 0.0.0.0 bitcoin-kopen.com
 0.0.0.0 blazetransfer.cfd
 0.0.0.0 kpgbxnpwrsnsi.com
@@ -321,8 +329,6 @@
 0.0.0.0 ngseriegentsf.org
 0.0.0.0 oansalsoaboaw.com
 0.0.0.0 techpointspot.com
-0.0.0.0 b0lz.aitrack2.com
-0.0.0.0 b0lz.aitrack3.com
 0.0.0.0 www.sven-play.com
 0.0.0.0 www.royalchin.com
 0.0.0.0 www.aspeurope.com
@@ -353,6 +359,7 @@
 0.0.0.0 www.setapp.sjv.io
 0.0.0.0 www.zorftel4k.com
 0.0.0.0 www.hero-wars.com
+0.0.0.0 www.vibrelabs.com
 0.0.0.0 goobefirumaupt.net
 0.0.0.0 eliteadblocker.net
 0.0.0.0 ad-block-offer.com
@@ -377,6 +384,7 @@
 0.0.0.0 preferencenail.com
 0.0.0.0 directbesparen.com
 0.0.0.0 togetherefwuko.org
+0.0.0.0 hollingerphoto.com
 0.0.0.0 www.casinoscout.nl
 0.0.0.0 www.resertol.co.in
 0.0.0.0 www.0-betsixty.com
@@ -412,6 +420,7 @@
 0.0.0.0 www.torvik59dz.com
 0.0.0.0 www.r.linksprf.com
 0.0.0.0 www.runoperagx.com
+0.0.0.0 www.loopsdayes.com
 0.0.0.0 popupblockernow.com
 0.0.0.0 blackmailarmory.com
 0.0.0.0 stoagouruzostee.net
@@ -436,6 +445,7 @@
 0.0.0.0 euphoric-square.com
 0.0.0.0 kekreegaidsunge.net
 0.0.0.0 ow.winonascards.com
+0.0.0.0 ubiquittyonline.com
 0.0.0.0 www.app.plus500.com
 0.0.0.0 www.bestmmogame.com
 0.0.0.0 www.freefromads.net
@@ -566,8 +576,6 @@
 0.0.0.0 www.ngseriegentsf.org
 0.0.0.0 www.oansalsoaboaw.com
 0.0.0.0 www.techpointspot.com
-0.0.0.0 www.b0lz.aitrack2.com
-0.0.0.0 www.b0lz.aitrack3.com
 0.0.0.0 thesurferprotector.com
 0.0.0.0 handbagwishesliver.com
 0.0.0.0 camp.purchase-shop.com
@@ -606,6 +614,7 @@
 0.0.0.0 www.preferencenail.com
 0.0.0.0 www.directbesparen.com
 0.0.0.0 www.togetherefwuko.org
+0.0.0.0 www.hollingerphoto.com
 0.0.0.0 bestsurferprotector.com
 0.0.0.0 check-tl-ver-198-d.buzz
 0.0.0.0 interruptchalkedlie.com
@@ -633,6 +642,7 @@
 0.0.0.0 www.euphoric-square.com
 0.0.0.0 www.kekreegaidsunge.net
 0.0.0.0 www.ow.winonascards.com
+0.0.0.0 www.ubiquittyonline.com
 0.0.0.0 adnetworkperformance.com
 0.0.0.0 ucdnondemandptimecdn.com
 0.0.0.0 privacy-guard-mobile.com
