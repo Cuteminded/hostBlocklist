@@ -16,6 +16,7 @@ def writeDomains():
     with open('domains.txt', 'w') as file:
         for line in domains:
             file.write(f"{line}\n")
+    domains.sort(key=len)
 
 def readme():
     lines = []
