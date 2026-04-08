@@ -3,7 +3,8 @@ permissions:
   contents: write
 on:
   push:
-    branches: [master]
+    paths:
+      - 'src/domains.txt'
 
 jobs:
   build:
