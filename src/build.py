@@ -38,6 +38,12 @@ def readme():
     lines.append("## Contributing")
     lines.append(" ")
     lines.append("If you want to contribute to this blocklist, please submit a pull request with your changes. Your help is much appreciated!")
+    lines.append(" ")
+    lines.append("## AbuseIPDB")
+    lines.append('<a href="https://www.abuseipdb.com/user/191536" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">')
+    lines.append('<img src="https://www.abuseipdb.com/contributor/191536.svg" alt="AbuseIPDB Contributor Badge" style="width: 400px;">')
+    lines.append('</a>')
+    lines.append(" ")
 
     with open("../README.md", "w") as file:
         for line in lines:
