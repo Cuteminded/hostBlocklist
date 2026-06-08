@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 371
+! Number of entries: 381
 !
 
 ||gate.io^
@@ -234,6 +234,7 @@
 ||titanpcgames.com^
 ||simaonegoalz.com^
 ||kokotracking.com^
+||talkwithlead.com^
 ||bitcoin-kopen.com^
 ||blazetransfer.cfd^
 ||kpgbxnpwrsnsi.com^
@@ -321,6 +322,7 @@
 ||kekreegaidsunge.net^
 ||ubiquittyonline.com^
 ||inrelationality.com^
+||jumboleadmagnet.com^
 ||topsolutions.rdtk.io^
 ||top-casino-online.nl^
 ||adplexmedia.adk2.com^
@@ -332,6 +334,7 @@
 ||wonderblockoffer.com^
 ||herbertsaxophone.com^
 ||verwerkt-vandaag.net^
+||talkwithcustomer.com^
 ||mysurferprotector.com^
 ||runsamuraiapp.monster^
 ||advancedadblocker.pro^
@@ -356,10 +359,16 @@
 ||secteltechnologies.com^
 ||oundhertobeconsist.org^
 ||shopinternetmodern.com^
+||rushleadgeneration.com^
+||talkwithwebtraffic.com^
 ||bestsurferprotector.com^
 ||check-tl-ver-198-d.buzz^
 ||interruptchalkedlie.com^
 ||blastleadgeneration.com^
+||blazeleadgeneration.com^
+||turboleadgeneration.com^
+||boostleadgeneration.com^
+||talkwithwebvisitors.com^
 ||adnetworkperformance.com^
 ||ucdnondemandptimecdn.com^
 ||privacy-guard-mobile.com^
@@ -367,6 +376,7 @@
 ||download-adblock-bear.com^
 ||adexchangeperformance.com^
 ||inwardupsettingcudgel.com^
+||advanceleadgeneration.com^
 ||bestecasinozondercruks.com^
 ||download-adblockgenius.com^
 ||pubads.g.doubleclick.uk.net^
