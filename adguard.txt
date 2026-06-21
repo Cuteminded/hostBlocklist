@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 387
+! Number of entries: 392
 !
 
 ||gate.io^
@@ -27,6 +27,8 @@
 ||likes.bet^
 ||tmll7.com^
 ||wy903.com^
+||b7510.com^
+||crn77.com^
 ||pemsrv.com^
 ||upbury.com^
 ||rtmark.net^
@@ -92,6 +94,7 @@
 ||aitrack9.com^
 ||sanh7vmv.com^
 ||drexolo.info^
+||gameshub.com^
 ||cloud-360.net^
 ||sven-play.com^
 ||royalchin.com^
@@ -161,6 +164,7 @@
 ||nightskyes.com^
 ||paramatise.com^
 ||adblockeru.com^
+||mynqel69dc.com^
 ||app.plus500.com^
 ||bestmmogame.com^
 ||freefromads.net^
@@ -327,6 +331,7 @@
 ||inrelationality.com^
 ||verwerktvandaag.net^
 ||jumboleadmagnet.com^
+||yourdatingoasis.com^
 ||topsolutions.rdtk.io^
 ||top-casino-online.nl^
 ||adplexmedia.adk2.com^
