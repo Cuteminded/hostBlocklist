@@ -4,12 +4,13 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 392
+! Number of entries: 396
 !
 
 ||gate.io^
 ||href.li^
 ||wecv.io^
+||pexi.nl^
 ||adk2.com^
 ||p2yn.com^
 ||2dgg.com^
@@ -279,6 +280,7 @@
 ||oansalsoaboaw.com^
 ||techpointspot.com^
 ||elementsguard.com^
+||cryptosplash.care^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
@@ -332,6 +334,7 @@
 ||verwerktvandaag.net^
 ||jumboleadmagnet.com^
 ||yourdatingoasis.com^
+||optoutadserving.com^
 ||topsolutions.rdtk.io^
 ||top-casino-online.nl^
 ||adplexmedia.adk2.com^
@@ -383,6 +386,7 @@
 ||ucdnondemandptimecdn.com^
 ||privacy-guard-mobile.com^
 ||adblocker-ultra-plus.pro^
+||cryptobeneluxbanner.care^
 ||fruitlesshooraytheirs.com^
 ||download-adblock-bear.com^
 ||adexchangeperformance.com^
