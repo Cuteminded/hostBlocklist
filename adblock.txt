@@ -7,7 +7,6 @@
 ! Number of entries: 398
 !
 
-||^
 ||gate.io^
 ||href.li^
 ||wecv.io^
@@ -282,6 +281,7 @@
 ||techpointspot.com^
 ||elementsguard.com^
 ||cryptosplash.care^
+||dobyfinancial.com^
 ||goobefirumaupt.net^
 ||eliteadblocker.net^
 ||ad-block-offer.com^
