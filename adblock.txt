@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 400
+! Number of entries: 401
 !
 
 ||gate.io^
@@ -377,6 +377,7 @@
 ||shopinternetmodern.com^
 ||rushleadgeneration.com^
 ||talkwithwebtraffic.com^
+||maestroshechiceros.com^
 ||bestsurferprotector.com^
 ||check-tl-ver-198-d.buzz^
 ||interruptchalkedlie.com^
