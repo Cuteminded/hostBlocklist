@@ -5,6 +5,10 @@ on:
   push:
     paths:
       - 'src/domains.txt'
+  workflow_run:
+    workflows: ["Clean Domains"]
+    types:
+      - completed
 
 jobs:
   build:
