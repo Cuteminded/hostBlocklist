@@ -1,0 +1,25 @@
+name: Clean Domains
+permissions:
+  contents: write
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'src/domains.txt'
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Setup Python
+        uses: actions/setup-python@v5
+      - name: pip install requirements
+        uses: parafoxia/pip-install@v1
+        with:
+          requirements: src/requirements.txt
+      - name: Run Script
+        run: |
+            cd src
+            python clean_domains.py domains.txt --dry-run
