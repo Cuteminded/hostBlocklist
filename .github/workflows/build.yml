@@ -27,7 +27,7 @@ jobs:
             python build.py
 
       - name: Deploying filter list
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: Deploying filter list ${{ steps.date.outputs.date }}
           commit_author: Alex <109213720+ItsAlexeii@users.noreply.github.com>
