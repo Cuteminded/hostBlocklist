@@ -3,18 +3,20 @@ permissions:
   contents: write
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'src/domains.txt'
+  schedule:
+    - cron: '0 9 1 * *' # Run at 09:00 on the 1st day of every month
 
 jobs:
   clean:
     runs-on: ubuntu-latest
     steps:
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
       - name: pip install requirements
         run: |
             python -m pip install --upgrade pip
@@ -22,4 +24,12 @@ jobs:
       - name: Run Script
         run: |
             cd src
-            python clean_domains.py domains.txt --dry-run
+            python clean_domains.py domains.txt
+      - name: Deploying cleaned domains
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: Cleaning domains ${{ steps.date.outputs.date }}
+          commit_author: Alex <109213720+ItsAlexeii@users.noreply.github.com>
+          commit_user_name: Alex
+          commit_user_email: 109213720+ItsAlexeii@users.noreply.github.com
+          branch: master
