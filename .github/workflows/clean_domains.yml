@@ -18,7 +18,7 @@ jobs:
       - name: pip install requirements
         uses: parafoxia/pip-install@v1
         with:
-          requirements: dnspython
+          packages: dnspython
       - name: Run Script
         run: |
             cd src
