@@ -15,10 +15,6 @@ jobs:
     name: Build
     runs-on: ubuntu-latest
     steps:
-      - name: Get current date
-        id: date
-        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
       - name: Checkout repo
         uses: actions/checkout@v7
 
@@ -30,10 +26,15 @@ jobs:
             cd src
             python build.py
 
+      - name: Describe generated changes
+        id: changes
+        run: python src/commit_message.py build
+
       - name: Deploying filter list
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: Deploying filter list ${{ steps.date.outputs.date }}
+          commit_message: ${{ steps.changes.outputs.message }}
+          file_pattern: 'adblock.txt adguard.txt README.md src/domains.txt'
           commit_author: Alex <109213720+ItsAlexeii@users.noreply.github.com>
           commit_user_name: Alex
           commit_user_email: 109213720+ItsAlexeii@users.noreply.github.com
