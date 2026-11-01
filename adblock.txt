@@ -4,7 +4,7 @@
 ! Description: A list of annoying spam domains to help users block unwanted content.
 ! Homepage: https://github.com/cuteminded/hostBlocklist
 ! Syntax: AdBlock
-! Number of entries: 308
+! Number of entries: 302
 !
 
 ||gate.io^
@@ -33,7 +33,6 @@
 ||pemsrv.com^
 ||upbury.com^
 ||rtmark.net^
-||mctanj.com^
 ||3commas.io^
 ||adcash.com^
 ||fbcdn2.com^
@@ -58,7 +57,6 @@
 ||jump12bx.com^
 ||lift90cs.com^
 ||yonmewon.com^
-||grunoaph.net^
 ||1337games.io^
 ||fleraprt.com^
 ||zoom56vp.com^
@@ -75,7 +73,6 @@
 ||aitrack1.com^
 ||aitrack2.com^
 ||aitrack3.com^
-||romplasa.com^
 ||aitrack4.com^
 ||aitrack5.com^
 ||aitrack6.com^
@@ -188,7 +185,6 @@
 ||eumobkepttor.com^
 ||tradetracker.com^
 ||winonascards.com^
-||northadblock.com^
 ||lust-goddess.com^
 ||bqa.aitrack2.com^
 ||ementseconom.org^
@@ -232,7 +228,6 @@
 ||bitcoinmagazine.nl^
 ||sholraidsoalro.net^
 ||wouhikeelichoo.net^
-||revcontent.network^
 ||adexchangeguru.com^
 ||pulseadnetwork.com^
 ||ptifaustounsaz.com^
@@ -288,7 +283,6 @@
 ||predictivadnetwork.com^
 ||ak.stikroltiltoowi.net^
 ||adblockerproshield.pro^
-||processesdisplease.com^
 ||survey-for-sucsess.com^
 ||secteltechnologies.com^
 ||oundhertobeconsist.org^
