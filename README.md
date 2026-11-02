@@ -3,8 +3,8 @@
 A list of annoying spam domains to help users block unwanted content.<br>
  
 ## Domains
-Number of Domains: 302<br>
-Last modified: 01-11-2026<br>
+Number of Domains: 303<br>
+Last modified: 02-11-2026<br>
  
 ## Usage
  
